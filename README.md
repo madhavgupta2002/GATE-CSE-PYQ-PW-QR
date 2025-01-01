@@ -34,3 +34,40 @@
 ### 2.5 File System & Disk Management
 [Watch Playlist](https://www.youtube.com/watch_videos?video_ids=Y-sr1UgtEms,ZiZtPWlZbjI,RfN51AoXMGw,tsUAmGArQkA,CIhwYACQI3I,2eEoESSGtFE,W0IcRpxYHqk,Q1nJZTmR4Tk,haYUdKMYN_M,8kD3mwMzHZY,-e-3VuarKjA,OBWrisw6lSs,8DTOGHf-XXA,1K_ESqT8eg8)
 
+## Computer Networks [Incomplete due to QR and Redirect]
+
+### 3.1 Basic Concepts and IPv4 Addressing
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=81wLT6acqdI,-7K_Q-3Duwo,PoQ91xpu4nQ,1_z6QERj7WE,QDQsbfahi08,goTn3xWFyRA,SuNCs2LOPrQ,qnrWRa9NjmI,rBrrp-DMOxw,9ULYAw_E2uQ,vTmbl7a1_8w,p7nz7-mOcM8)
+
+### 3.2 Data Link Layer
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=PvxeSap-ql8,Rg5FZvjJUU0,lL_k8rOsZ8M,63dK613Zcb8,mdoT6sGL2aQ,a7kSc15cRe4,a_HVX-eOBHI,T0I580Ca8-w,ooJH5p27lx0,mqKe4gxC-I4,Uz3PB-S5ibE,IkBJJQRw2S4,KPAHvFVvFa4,toNcR-rpgAU)
+
+### 3.3 MAC Sublayer
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=AyxNzN4WGkE,mFPZl5CwIiA,ivMX9MniKJk,jiB7XS0-GCw)
+
+### 3.4 Network Layer
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=JHRL-Gih0YM,rrniRLBuA5k,bpL_JFc8i40,5F_wD8xYEmo,XeiHBioN78g,6O6Nor0TIH4,kHdI_zdrKoI,0y9b63cqq-0,e02RwU3I6tg,93UoP8rTBmo,wFWWpMSQhjc,mvHoPGm-FlA,_4wTTXZW34Q,EbUtjkheDIg,ZPZ14AYB0X4,8opZNLiNRK0,gI3DiaYKdDw,P5Wl6WWcMmw,HfVEHwDWdu4,JPchzSIOnY8,5ZQPOLgXZDY,RkwHZXfN1t0,h5EOHfKqfyY,ceWlbDhgIgQ,L5raUVJKpsc)
+
+### 3.5 Transport Layer
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=psJFLUexpSk,4LbmUDXzz70,BbkKQKtl1Xk,NnsbU771weg,zpI3MED9wmQ,qaxTdnF-uno,MJoNnQKPSNU,qss9x3q2zG4,lk9nhOgKOPc,pIRMUz15UpY,ec_Zjur59kA,dWNBNxIH_GI,QvGzy87jRFI)
+
+### 3.6 Application Layer
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=yRlD7Ow0I8Q,Q9rW4LaSMc8,DcVHn2XbdgM,jhrYLfYbFxw,IoBCAO6FOio,TcJU5eO-iH8,c2WvE-fFx-c,4FN6EaO7oa0)
+
+## Computer Organization and Architecture  [Incomplete due to QR ]
+
+### 4.1 Machine Instruction and Addressing Modes
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=nM0HFG8ful4,127aalZRCgU,Oqx1J6_Xnxg,3ltjnrp1tQE,O33Ez7XT0lE,J-AZY5L4uEc,CyKXdFRkPlM,oBmRXIfcAdE,OlhkhbVdwD8,1UjA_lOFMtQ,CRhOeYkFGFw,SGw7ArtVch8,slgUiugG41A,qUIwQ_B4ML8,OpJVMk7vul8,ZgpdK3VlNB8,zftAK3ldWto,kTWQ8k3O1-A,UGY0bxueQa8)
+
+### 4.2 ALU and Control Unit
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=IO8fGQGZtlc,Op9ucDojzJU,PYGlMJ4iJPE,I5m1xDEb910)
+
+### 4.3 Instruction Pipelining
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=CWFZRrrqKj8,WzgLsUWWovo,xaArEZLQIJA,Y9cY1kGAmjM,4sbL5gvQd3U,3L4W_EuBL54,oVbnGid5OT8,Q0EUBrHNOxI,azHYGsHGKuE,bBtrCJJGK9M,n2Lm8p7Nk0k,1Qr5_cqhz54,VxpF7UHkvB8,_MYlEqLD3_o,pZg8gtvmVlM,znduZieKYio,Y1fYtG5aXRM,SUwwF9cxlbs,DN53767sEvk,fFdR5BEgOBM,GjRmrONEFM0,5hXlwmoe7zI,JzCFNM7jwyU,2pJh-1cNk1A,2Osl4_CwREE)
+
+### 4.4 Memory Hierarchy
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=nR3Eljc7XRY,mBM0nSEnjqE,QaSgmYWXBn0,ZK32GpZLj3U,RRNxjrfgNGA,fSfcJn7rQiI,PRup1DWuSNI,6ic5Qi75h9U,yxRCCF45r4g,VP7KJKteRtw,G2mGwwwAfHg,bgQiMjl0ppo,LnAMdCMZIRc,JX3iN7AvFlo,E8WeUezsvHo,i6MsS2JGzNM,ZmgHPIXnJ6s,qMpLzBB3jNA,HEf6wvUoxkU,z1FwxEev5gc,RCZ0gBb2oTQ,gK26taAWfIE,lEslH36nVfI,_3bDugavAZc,Ed3thYqYSA0,p3PpvhBIgrc,55G25eLMEJw,AdTEGudBGyQ,qH838Z8hQVk,-Oey6V-5qzs,9QH65DiKPIs,-6C5GVT6mO8,CRMgF8vUmMw,J8VdTS4e4FU,7rfsVhAYGhA)
+
+### 4.5 IO Interface
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=PlohFC8HhoI,t3japIGxD70,AgRWmh1VH3k,oqW8ex4oSrA,q9efCXPcJ6I,iAdlz48Nu5w,kXSmHuz81G4,Wtoui5lTtyE,uMGR0paOAMc,1P4O8bhXeRk)
+
