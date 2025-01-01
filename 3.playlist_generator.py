@@ -17,7 +17,7 @@ def process_txt_file(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
                 line = line.strip()
-                if line:
+                if line and line.startswith('https://www.youtube.com'):
                     video_id = extract_video_id(line)
                     if video_id:
                         video_ids.append(video_id)
@@ -31,7 +31,7 @@ def main():
         md_file.write("# Course Playlists\n\n")
         
         # Get all directories starting with numbers
-        base_dirs = [d for d in os.listdir('.') if os.path.isdir(d) and (d.startswith('1.') or d.startswith('2.'))]
+        base_dirs = [d for d in os.listdir('.') if os.path.isdir(d) and (d.startswith('1.') or d.startswith('2.') or d.startswith('3.') or d.startswith('4.'))]
         base_dirs.sort()
         
         # Process each main directory
@@ -57,4 +57,4 @@ def main():
                     md_file.write(f"[Watch Playlist]({playlist_url})\n\n")
 
 if __name__ == "__main__":
-    main() 
+    main()
