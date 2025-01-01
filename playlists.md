@@ -1,6 +1,6 @@
 # Course Playlists
 
-## DBMS
+## Database Management System
 
 ### 1.1 Database Design and ER Model
 [Watch Playlist](https://www.youtube.com/watch_videos?video_ids=6aN8O7yC_-U,0paDgzEDK-Q,6lsP45pL5CI,JKhOpaUkwgM,urVKHrWo4A8,ipaafUHY4XY,J6TciUqBXMw,3kfQqwTfJYk,bKoDlV2WBjA,0WTz_bEbSvk,zqZbVVOfqjI,Lke--909mvE,DdtAxwaq7Dc,mMqnmJaflFc,u0XHZ9P7WXI)
