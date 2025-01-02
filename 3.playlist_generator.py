@@ -34,7 +34,7 @@ def main():
         md_file.write("# Course Playlists\n\n")
         
         # Get all directories starting with numbers
-        base_dirs = [d for d in os.listdir('.') if os.path.isdir(d) and any(d.startswith(f'{i}.') for i in range(1, 11))]
+        base_dirs = [d for d in os.listdir('.') if os.path.isdir(d) and any(d.startswith(f'{i:02d}.') for i in range(1, 11))]
         base_dirs.sort()
         
         # Process each main directory

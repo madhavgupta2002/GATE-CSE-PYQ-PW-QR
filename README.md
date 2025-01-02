@@ -20,33 +20,6 @@
 Missing videos:
 - [MISSING:1.5 FOI\IMG20250101134632.jpg]
 
-## Discrete Mathematics
-
-### 10.1 Propositional Logic
-[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=KRn-GCVh8Hs,Lkd_nl1PEBE,En4i9hB_-ps,_G5tY0--iSU,6lnp-8ad1oI,OgshivVoNyw,9HglXkudeLY,iktRX0n5Bq4,OHu9IFqVekA,rpal6DPlpvE,T-uLHl_TX_Y,ce8Bb8OgrdI,pK7OiokxXq0,P1dK2kRHpEM,EKUtPEkffnI,-jMDaYD9XLA,QfE_3svnQIs,ETobHRhsst0,yF2Tuo0ddrI,zL2a8Arc2Ds,NaR0z5tVATU,fpU2LKQ6Cf0)
-
-Missing videos:
-- [MISSING:10.1 Propositional Logic\IMG20250102130109.jpg]
-- [MISSING:10.1 Propositional Logic\IMG20250102130139.jpg]
-
-### 10.2 Sets Relations and Functions
-[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=bfmzhqPPvLo,84sCj_Nb91k,CEpXFgAUGIg,4ZjbFM5XMpc,77-K8vot9Yk,MSJxpQenZAc,GGRwBhlrusE,coseuwM88UI,vVTvvSHFq4Q,Jt-aB4UjWbs,1Hs3_AYWPsQ,OiBidyyXnq8,_D39YJ__J_0,6PwVIt2BFEE,sQG8eGv8BKw,6gEVjJj_GIo,OXWBnMzqLww,xSCI3hc7vxY,PZhM2xuZfzE,rcdt99_-9wc,Xfz9-7tyXFg,p4LD3fxcYuM,76CU4S5zPlQ,_5s23vSlWKQ,hEAEniKpDcc,QezmnguzXbA,yLIER4SRCfk,LsvsuekPqNs,qDP5kX3f2KM)
-
-Missing videos:
-- [MISSING:10.2 Sets Relations and Functions\IMG20250102130226.jpg]
-- [MISSING:10.2 Sets Relations and Functions\IMG20250102130316.jpg]
-
-### 10.3 Graph Theory
-[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=mWWHlEwptoc,6oF2jxXGZaE,XfSj7c4BSck,m3STJIHkofU,t0_PJE8mPn0,bR0B-HXMvO0,SViVchShjjY,ybl2SM-VthA,NpNBO5hyh-4,bDQGR9gVUEQ,olYksHT_znA,uM27ZbU4JDs,7zYMm_A6YZI,yJWjaBLDcJw,9pKc0ZVieVY,cxM-aSswzEs,ZGM9250w5JE,9pbWei-p2GU,Abm42fb76nI,7BhaHyZCqE0,HjVYUFxNR_I,xe3nuncMaYM,HoZrMVW6J1A,pNLKvL3UK7U,9dXOCX3OEOc,ZkFlVFgXwuY,5nqjiB0nMQM,EpXjR8AaJCY,-tve4mcEqcc)
-
-Missing videos:
-- [MISSING:10.3 Graph Theory\IMG20250102130355.jpg]
-- [MISSING:10.3 Graph Theory\IMG20250102130407.jpg]
-- [MISSING:10.3 Graph Theory\IMG20250102130504.jpg]
-
-### 10.4 Combinatorics
-[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=Lm1NPXsXZ04,U-fBht2Mzug,PDCRGgYC7bk,lQKn3kTCQ34,RPGKOnl8YBk,iVrh8H5-s-I,vQkPwNgRqw8,hR-7QLqD_bg,0Et9LdK2NRY,e2-5nTuSVS4,S_-7TQFMuFA,wEOCOD5MsnY,Ne2I00A17cQ,ObdwhRk2OpA,xnQYy9axGyo)
-
 ## Operating Systems
 
 ### 2.1 Process Management & CPU Scheduling
@@ -404,4 +377,31 @@ Missing videos:
 
 Missing videos:
 - [MISSING:9.4 Sequential Circuits\IMG20250102125713.jpg]
+
+## Discrete Mathematics
+
+### 10.1 Propositional Logic
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=KRn-GCVh8Hs,Lkd_nl1PEBE,En4i9hB_-ps,_G5tY0--iSU,6lnp-8ad1oI,OgshivVoNyw,9HglXkudeLY,iktRX0n5Bq4,OHu9IFqVekA,rpal6DPlpvE,T-uLHl_TX_Y,ce8Bb8OgrdI,pK7OiokxXq0,P1dK2kRHpEM,EKUtPEkffnI,-jMDaYD9XLA,QfE_3svnQIs,ETobHRhsst0,yF2Tuo0ddrI,zL2a8Arc2Ds,NaR0z5tVATU,fpU2LKQ6Cf0)
+
+Missing videos:
+- [MISSING:10.1 Propositional Logic\IMG20250102130109.jpg]
+- [MISSING:10.1 Propositional Logic\IMG20250102130139.jpg]
+
+### 10.2 Sets Relations and Functions
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=bfmzhqPPvLo,84sCj_Nb91k,CEpXFgAUGIg,4ZjbFM5XMpc,77-K8vot9Yk,MSJxpQenZAc,GGRwBhlrusE,coseuwM88UI,vVTvvSHFq4Q,Jt-aB4UjWbs,1Hs3_AYWPsQ,OiBidyyXnq8,_D39YJ__J_0,6PwVIt2BFEE,sQG8eGv8BKw,6gEVjJj_GIo,OXWBnMzqLww,xSCI3hc7vxY,PZhM2xuZfzE,rcdt99_-9wc,Xfz9-7tyXFg,p4LD3fxcYuM,76CU4S5zPlQ,_5s23vSlWKQ,hEAEniKpDcc,QezmnguzXbA,yLIER4SRCfk,LsvsuekPqNs,qDP5kX3f2KM)
+
+Missing videos:
+- [MISSING:10.2 Sets Relations and Functions\IMG20250102130226.jpg]
+- [MISSING:10.2 Sets Relations and Functions\IMG20250102130316.jpg]
+
+### 10.3 Graph Theory
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=mWWHlEwptoc,6oF2jxXGZaE,XfSj7c4BSck,m3STJIHkofU,t0_PJE8mPn0,bR0B-HXMvO0,SViVchShjjY,ybl2SM-VthA,NpNBO5hyh-4,bDQGR9gVUEQ,olYksHT_znA,uM27ZbU4JDs,7zYMm_A6YZI,yJWjaBLDcJw,9pKc0ZVieVY,cxM-aSswzEs,ZGM9250w5JE,9pbWei-p2GU,Abm42fb76nI,7BhaHyZCqE0,HjVYUFxNR_I,xe3nuncMaYM,HoZrMVW6J1A,pNLKvL3UK7U,9dXOCX3OEOc,ZkFlVFgXwuY,5nqjiB0nMQM,EpXjR8AaJCY,-tve4mcEqcc)
+
+Missing videos:
+- [MISSING:10.3 Graph Theory\IMG20250102130355.jpg]
+- [MISSING:10.3 Graph Theory\IMG20250102130407.jpg]
+- [MISSING:10.3 Graph Theory\IMG20250102130504.jpg]
+
+### 10.4 Combinatorics
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=Lm1NPXsXZ04,U-fBht2Mzug,PDCRGgYC7bk,lQKn3kTCQ34,RPGKOnl8YBk,iVrh8H5-s-I,vQkPwNgRqw8,hR-7QLqD_bg,0Et9LdK2NRY,e2-5nTuSVS4,S_-7TQFMuFA,wEOCOD5MsnY,Ne2I00A17cQ,ObdwhRk2OpA,xnQYy9axGyo)
 
