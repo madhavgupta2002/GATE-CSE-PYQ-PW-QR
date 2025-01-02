@@ -27,11 +27,11 @@ def process_txt_file(file_path):
 
 def main():
     # Create markdown file
-    with open('playlists.md', 'w', encoding='utf-8') as md_file:
+    with open('README.md', 'w', encoding='utf-8') as md_file:
         md_file.write("# Course Playlists\n\n")
         
         # Get all directories starting with numbers
-        base_dirs = [d for d in os.listdir('.') if os.path.isdir(d) and (d.startswith('1.') or d.startswith('2.') or d.startswith('3.') or d.startswith('4.'))]
+        base_dirs = [d for d in os.listdir('.') if os.path.isdir(d) and any(d.startswith(f'{i}.') for i in range(1, 11))]
         base_dirs.sort()
         
         # Process each main directory
