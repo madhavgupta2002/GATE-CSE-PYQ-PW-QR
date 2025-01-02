@@ -228,20 +228,10 @@ Missing videos:
 ## Algorithms
 
 ### 6.1 Asymptotic Analysis
-[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=LOCvRRA_rUM,UbMzLC6CNeM,bcgRvwazkQ4,-hjKo2zQx4I,6HbHxw65jhY,ICSJYTccr1Q,rlxvnoWJy6Y,D8HFxNT27tM,8G5MftvWxzo,sz3SVpoq97c,6A1lB7o5ZmQ,cDt4f0hlfqA,B9uUl6PJykQ,Yn1Gsg5kjk0,BjzQqFSG3cY)
+[Watch Playlist](https://www.youtube.com/watch_videos?video_ids=SVYwkH-oC_4,XFWyjI58r3I,cPJ2PhO5Tdg,LOCvRRA_rUM,UbMzLC6CNeM,bcgRvwazkQ4,-hjKo2zQx4I,6HbHxw65jhY,anpxQsQLgVY,ICSJYTccr1Q,Yml2OmHCLgQ,rlxvnoWJy6Y,D8HFxNT27tM,8G5MftvWxzo,sz3SVpoq97c,6A1lB7o5ZmQ,5dNmfWUeNFs,AFCuqhGpRbo,O0fXvzACjQY,tZXWks6KJLo,cDt4f0hlfqA,2YSJlUJ5QeI,B9uUl6PJykQ,Yn1Gsg5kjk0,BjzQqFSG3cY)
 
 Missing videos:
-- [MISSING:6.1 Asymptotic Analysis\IMG20250102122031.jpg]
-- [MISSING:6.1 Asymptotic Analysis\IMG20250102122033.jpg]
-- [MISSING:6.1 Asymptotic Analysis\IMG20250102122035.jpg]
-- [MISSING:6.1 Asymptotic Analysis\IMG20250102122146.jpg]
-- [MISSING:6.1 Asymptotic Analysis\IMG20250102122149.jpg]
-- [MISSING:6.1 Asymptotic Analysis\IMG20250102122204.jpg]
-- [MISSING:6.1 Asymptotic Analysis\IMG20250102122208.jpg]
-- [MISSING:6.1 Asymptotic Analysis\IMG20250102122212.jpg]
-- [MISSING:6.1 Asymptotic Analysis\IMG20250102122214.jpg]
 - [MISSING:6.1 Asymptotic Analysis\IMG20250102122219.jpg]
-- [MISSING:6.1 Asymptotic Analysis\IMG20250102122230.jpg]
 
 ### 6.2 Divide and Conquer
 [Watch Playlist](https://www.youtube.com/watch_videos?video_ids=AVRt1QzLcKU,Y5dM7bGgofk,APzElozQmLY,utO4ZQ_joPo,py1WMDhdzUQ,jn4wLvIzLtc,FjXW3uAAAdo,kpR77noxSRU,4TeLfKUMQoA,0LoOe68d3w0,1VsmyU04J-k,MGNqx1my7R4,NedojSzv4-s,hJZbeQu2rw8,mjXSYmAw6bY,YK89_QDEE8E,gbsXLJoxhNc,mUOilEwdh2E,izR8DGJjF7I,CRNFo98ApuM,o4Kgiy37daE,9OWxeFR_3E0,4WQBhxmQFl8,ISvAC6O89rQ,_MkTKpRsPvA)
