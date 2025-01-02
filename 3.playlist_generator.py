@@ -56,8 +56,7 @@ def main():
                 video_ids, missing_videos = process_txt_file(file_path)
                 if video_ids:
                     playlist_url = create_playlist_url(video_ids)
-                    md_file.write(f"### {topic_name}\n")
-                    md_file.write(f"[Watch Playlist]({playlist_url})\n\n")
+                    md_file.write(f"### [{topic_name}]({playlist_url})\n\n")
                     if missing_videos:
                         md_file.write("Missing videos:\n")
                         for missing in missing_videos:
