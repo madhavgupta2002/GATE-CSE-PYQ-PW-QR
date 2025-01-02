@@ -9,7 +9,7 @@ def extract_video_id(url):
 
 def create_playlist_url(video_ids):
     # Create a YouTube playlist URL from video IDs
-    return f"https://www.youtube.com/watch_videos?video_ids={','.join(video_ids)}"
+    return f"https://www.youtube.com/embed/videoseries?playlist={','.join(video_ids)}"
 
 def process_txt_file(file_path):
     video_ids = []
@@ -57,7 +57,7 @@ def main():
                 if video_ids:
                     playlist_url = create_playlist_url(video_ids)
                     md_file.write(f"### {topic_name}\n")
-                    md_file.write(f"[Watch Playlist]({playlist_url})\n\n")
+                    md_file.write(f'<iframe width="560" height="315" src="{playlist_url}" frameborder="0" allowfullscreen></iframe>\n\n')
                     if missing_videos:
                         md_file.write("Missing videos:\n")
                         for missing in missing_videos:
