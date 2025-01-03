@@ -176,176 +176,75 @@ Missing videos:
 Missing videos:
 - [MISSING:6.1 Asymptotic Analysis\IMG20250102122219.jpg]
 
-### [6.2 Divide and Conquer](https://www.youtube.com/watch_videos?video_ids=AVRt1QzLcKU,Y5dM7bGgofk,APzElozQmLY,utO4ZQ_joPo,py1WMDhdzUQ,jn4wLvIzLtc,FjXW3uAAAdo,kpR77noxSRU,4TeLfKUMQoA,0LoOe68d3w0,1VsmyU04J-k,MGNqx1my7R4,NedojSzv4-s,hJZbeQu2rw8,mjXSYmAw6bY,YK89_QDEE8E,gbsXLJoxhNc,mUOilEwdh2E,izR8DGJjF7I,CRNFo98ApuM,o4Kgiy37daE,9OWxeFR_3E0,4WQBhxmQFl8,ISvAC6O89rQ,_MkTKpRsPvA)
+### [6.2 Divide and Conquer](https://www.youtube.com/watch_videos?video_ids=AVRt1QzLcKU,Y5dM7bGgofk,APzElozQmLY,IRTu-ca0g6k,utO4ZQ_joPo,bUrayKx9Q1M,HzTQnaaI2gs,mfz1drgBaoc,py1WMDhdzUQ,jn4wLvIzLtc,FjXW3uAAAdo,kpR77noxSRU,4TeLfKUMQoA,0LoOe68d3w0,1VsmyU04J-k,MGNqx1my7R4,NedojSzv4-s,hJZbeQu2rw8,mjXSYmAw6bY,KKiNKZlqHQQ,YK89_QDEE8E,gbsXLJoxhNc,mUOilEwdh2E,izR8DGJjF7I,izR8DGJjF7I,FBkN0IfNQZw,CRNFo98ApuM,o4Kgiy37daE,jlGRu4ZFYA0,9OWxeFR_3E0,4WQBhxmQFl8,ISvAC6O89rQ,_MkTKpRsPvA)
+
+### [6.3 Greedy Techniques](https://www.youtube.com/watch_videos?video_ids=NPmFJ-n_HVE,20G55VeufXI,T99s7K3oQl4,QzyOEEGn2zs,VNx5BlTsa5w,miqXrIi3Y8Y,VrkLs2iVe2I,0e2ilaoYkIU,2Pyee94MGo0,Z4JbsiHkcMs,-lJ6JYObvK8,GwG7sqmAOmg,6DBrNCVBoWo)
 
 Missing videos:
-- [MISSING:6.2 Divide and Conquer\IMG20250102122307.jpg]
-- [MISSING:6.2 Divide and Conquer\IMG20250102122315.jpg]
-- [MISSING:6.2 Divide and Conquer\IMG20250102122317.jpg]
-- [MISSING:6.2 Divide and Conquer\IMG20250102122320.jpg]
-- [MISSING:6.2 Divide and Conquer\IMG20250102122358.jpg]
-- [MISSING:6.2 Divide and Conquer\IMG20250102122417.jpg]
-- [MISSING:6.2 Divide and Conquer\IMG20250102122424.jpg]
-- [MISSING:6.2 Divide and Conquer\IMG20250102122436.jpg]
-
-### [6.3 Greedy Techniques](https://www.youtube.com/watch_videos?video_ids=NPmFJ-n_HVE,T99s7K3oQl4,QzyOEEGn2zs,VNx5BlTsa5w,miqXrIi3Y8Y,VrkLs2iVe2I,0e2ilaoYkIU,2Pyee94MGo0,Z4JbsiHkcMs,-lJ6JYObvK8,GwG7sqmAOmg,6DBrNCVBoWo)
-
-Missing videos:
-- [MISSING:6.3 Greedy Techniques\IMG20250102122510.jpg]
 - [MISSING:6.3 Greedy Techniques\IMG20250102122521.jpg]
 
-### [6.4 Graph Based Algorithm](https://www.youtube.com/watch_videos?video_ids=3Iub9Rcdzlw,zU3WM_5ZTg8,XTezt7rMkQY,NEAorl_qdjM,zAGYvJBM3WU,r8PxyOkkf6Y,bIkqhUG7FnI,ID30qjZlc_4,iNvW3uCtIVs,Wruc9edzp-M,JUM-nK3I42o,2lpHnQvx6cA,Y8Vm4PbuS24,w42Elfa0Ybg,aYNE0XjjymM,W-9teXw2118,cnXpYOvkN-A,C6xLKa-3QRo)
+### [6.4 Graph Based Algorithm](https://www.youtube.com/watch_videos?video_ids=vo27s_cHcpo,3Iub9Rcdzlw,ti5wbveE7Os,zU3WM_5ZTg8,XTezt7rMkQY,NEAorl_qdjM,zAGYvJBM3WU,r8PxyOkkf6Y,bIkqhUG7FnI,6gqLDGOU9-k,j7DoaXPTjAc,ID30qjZlc_4,iNvW3uCtIVs,Wruc9edzp-M,JUM-nK3I42o,2lpHnQvx6cA,Y8Vm4PbuS24,2vSOOjqlBDY,pEurWclE0BM,w42Elfa0Ybg,aYNE0XjjymM,W-9teXw2118,cnXpYOvkN-A,C6xLKa-3QRo)
 
 Missing videos:
-- [MISSING:6.4 Graph Based Algorithm\IMG20250102122605.jpg]
 - [MISSING:6.4 Graph Based Algorithm\IMG20250102122608.jpg]
-- [MISSING:6.4 Graph Based Algorithm\IMG20250102122616.jpg]
-- [MISSING:6.4 Graph Based Algorithm\IMG20250102122635.jpg]
-- [MISSING:6.4 Graph Based Algorithm\IMG20250102122638.jpg]
-- [MISSING:6.4 Graph Based Algorithm\IMG20250102122700.jpg]
-- [MISSING:6.4 Graph Based Algorithm\IMG20250102122702.jpg]
 
-### [6.5 Dynamic Programming](https://www.youtube.com/watch_videos?video_ids=S_4gxNiDvWI,vI_GaVK6Zx4,IFsPQng-cC0,k4F6E7ORdPo,6K-7D_2vN6E,xbsG0d_HLnU,W10wp2TA-_Y,RnOun3aUMdY,0UFWRJ26oXg,--XuW6zN080,U5RV-3_Mw2s,rCLndPyz3pM,kIfGaAAcrCU)
+### [6.5 Dynamic Programming](https://www.youtube.com/watch_videos?video_ids=S_4gxNiDvWI,vI_GaVK6Zx4,IFsPQng-cC0,k4F6E7ORdPo,6K-7D_2vN6E,xbsG0d_HLnU,W10wp2TA-_Y,RnOun3aUMdY,0UFWRJ26oXg,3lhHHA6mkos,Z8musx3vE5o,h71A0ZeICu0,x21KcZBNfY4,--XuW6zN080,U5RV-3_Mw2s,rCLndPyz3pM,kIfGaAAcrCU)
+
+### [6.6 Miscellaneous Topics](https://www.youtube.com/watch_videos?video_ids=XIeuSe-UTW4,uvSfYNb26YU,Nx70AR1PG6c,SXOvE7nOWfc,uvSfYNb26YU,oKlUMmjCxR0,dWgz-4Ke5aU,o23wYQrUmtM,k_h42yufEyU,jw0IbfaTWpk,IUpjXHXq04g,c0yAsACU38M,cseC6tH25II,U3hLPqbelO8,pCGwzbJ6MmM,LAGZbs4w1BI,enyPtGjr7sI,KnoLSHXdJJI,3CdJ1J6h-HM,Phde_REL5l4,lxaF4A7QApY)
 
 Missing videos:
-- [MISSING:6.5 Dynamic Programming\IMG20250102122758.jpg]
-- [MISSING:6.5 Dynamic Programming\IMG20250102122800.jpg]
-- [MISSING:6.5 Dynamic Programming\IMG20250102122803.jpg]
-- [MISSING:6.5 Dynamic Programming\IMG20250102122806.jpg]
-
-### [6.6 Miscellaneous Topics](https://www.youtube.com/watch_videos?video_ids=Nx70AR1PG6c,SXOvE7nOWfc,uvSfYNb26YU,oKlUMmjCxR0,o23wYQrUmtM,jw0IbfaTWpk,IUpjXHXq04g,c0yAsACU38M,cseC6tH25II,U3hLPqbelO8,pCGwzbJ6MmM,LAGZbs4w1BI,enyPtGjr7sI,KnoLSHXdJJI,3CdJ1J6h-HM,Phde_REL5l4,lxaF4A7QApY)
-
-Missing videos:
-- [MISSING:6.6 Miscellaneous Topics\IMG20250102122848.jpg]
-- [MISSING:6.6 Miscellaneous Topics\IMG20250102122850.jpg]
-- [MISSING:6.6 Miscellaneous Topics\IMG20250102122906.jpg]
-- [MISSING:6.6 Miscellaneous Topics\IMG20250102122912.jpg]
 - [MISSING:6.6 Miscellaneous Topics\IMG20250102122915.jpg]
 
 ## Compiler Design
 
-### [7.1 Introduction to Compiler](https://www.youtube.com/watch_videos?video_ids=jbxEjHfluLg,GjPmRSStcZw,MNDfBvbw5oY)
+### [7.1 Introduction to Compiler](https://www.youtube.com/watch_videos?video_ids=jbxEjHfluLg,GjPmRSStcZw,NleRvep1Gu4,MNDfBvbw5oY,pIMxd7FlFM4)
 
-Missing videos:
-- [MISSING:7.1 Introduction to Compiler\IMG20250102123224.jpg]
-- [MISSING:7.1 Introduction to Compiler\IMG20250102123235.jpg]
+### [7.2 Lexical Analysis](https://www.youtube.com/watch_videos?video_ids=7XiHpCHlULc,bXBGSUNTkus,A_3D0igCEF0,8NtQKqzKD8s)
 
-### [7.2 Lexical Analysis](https://www.youtube.com/watch_videos?video_ids=7XiHpCHlULc,bXBGSUNTkus,A_3D0igCEF0)
+### [7.3 Syntax Analysis](https://www.youtube.com/watch_videos?video_ids=US9fJrV0VxU,l3Au2kOih6M,5p3RED31VL4,9GK37pIJHfY,JfCrz91iP-8,c0BQF6I69Wg,8x2Mm_x6iU0,eznVFkOKqGQ,vy6C9oYqj9A,Y2Os0c-GGdM,KbQmJ84L0Y0,EjoJEEuAI5c,fyi7uAlMERs,l5kBzd00dVs,Yu1C5kNRWRQ,YiqGtmOcQug,baPZCksrn6c,C631HiahoSM,ungozDt7mhs,0_f77xhMeME,tIqUDKaTcqw,GUYkyNxInEE,niv0Y5LZAug,N9gkADGqIjc,JQVlWfcZ0lM,DlWkBE1A0mk,5UcPeqoTs8U,3wmP0hx4XV4,BH7E2wdJGjI)
 
-Missing videos:
-- [MISSING:7.2 Lexical Analysis\IMG20250102123259.jpg]
-
-### [7.3 Syntax Analysis](https://www.youtube.com/watch_videos?video_ids=US9fJrV0VxU,l3Au2kOih6M,5p3RED31VL4,9GK37pIJHfY,JfCrz91iP-8,c0BQF6I69Wg,8x2Mm_x6iU0,eznVFkOKqGQ,Y2Os0c-GGdM,KbQmJ84L0Y0,EjoJEEuAI5c,fyi7uAlMERs,l5kBzd00dVs,Yu1C5kNRWRQ,GUYkyNxInEE,niv0Y5LZAug,N9gkADGqIjc,JQVlWfcZ0lM,DlWkBE1A0mk,5UcPeqoTs8U,3wmP0hx4XV4,BH7E2wdJGjI)
-
-Missing videos:
-- [MISSING:7.3 Syntax Analysis\IMG20250102123340.jpg]
-- [MISSING:7.3 Syntax Analysis\IMG20250102123404.jpg]
-- [MISSING:7.3 Syntax Analysis\IMG20250102123408.jpg]
-- [MISSING:7.3 Syntax Analysis\IMG20250102123410.jpg]
-- [MISSING:7.3 Syntax Analysis\IMG20250102123412.jpg]
-- [MISSING:7.3 Syntax Analysis\IMG20250102123415.jpg]
-- [MISSING:7.3 Syntax Analysis\IMG20250102123425.jpg]
-
-### [7.4 Syntax Directed Translation](https://www.youtube.com/watch_videos?video_ids=C4HgEArcvME,4PpvItiwobI,uHAuJ-S_3s0,KvZe3AnXFvI,zI6cS1HmF9E,XhEG9Kbj2v4,t_LAzW1zFEc,jeHU1Vr-fLg,7p6LdT2hJDw,pfehow4GFes,7e2XefTVclE)
-
-Missing videos:
-- [MISSING:7.4 Syntax Directed Translation\IMG20250102123514.jpg]
-- [MISSING:7.4 Syntax Directed Translation\IMG20250102123519.jpg]
-- [MISSING:7.4 Syntax Directed Translation\IMG20250102123522.jpg]
+### [7.4 Syntax Directed Translation](https://www.youtube.com/watch_videos?video_ids=C4HgEArcvME,4PpvItiwobI,uHAuJ-S_3s0,KvZe3AnXFvI,0bhTBO0xa68,_RYvToW6CHw,U8clCf0jCuM,zI6cS1HmF9E,XhEG9Kbj2v4,t_LAzW1zFEc,jeHU1Vr-fLg,7p6LdT2hJDw,pfehow4GFes,7e2XefTVclE)
 
 ### [7.5 Intermediate Code Generation](https://www.youtube.com/watch_videos?video_ids=xxr-HAWnAaM,TZ_iGTW3MkU,1-fgo543IQE,lZxviOf_VXE,GnJNZpqTbFM,aOVPjjCpiOo,jpeXseMQGb4)
 
-### [7.6 Code Optimization](https://www.youtube.com/watch_videos?video_ids=GpkMrvlo1C8,ILujoYOwU5w,3IkcOmUrVQI,gP994cshszk,5NzVdONFuQo,CH5gdxePBNY,ta_8qVnZEic,pPFAVyDOw-Y,v3WPRgu0X3Y,QFVJ0W7WD3M,XO_DksRgmiQ,m2DSc2F9ePY,83ctjkWyvaA,CSwAu8n__xo,qhWvgbf0r34,1VkN9o7yPSk,LxP2WsP6pPQ)
-
-Missing videos:
-- [MISSING:7.6 Code Optimization\IMG20250102123649.jpg]
+### [7.6 Code Optimization](https://www.youtube.com/watch_videos?video_ids=GpkMrvlo1C8,ILujoYOwU5w,3IkcOmUrVQI,gP994cshszk,ft8a98i4gVU,5NzVdONFuQo,CH5gdxePBNY,ta_8qVnZEic,pPFAVyDOw-Y,v3WPRgu0X3Y,QFVJ0W7WD3M,XO_DksRgmiQ,m2DSc2F9ePY,83ctjkWyvaA,CSwAu8n__xo,qhWvgbf0r34,1VkN9o7yPSk,LxP2WsP6pPQ)
 
 ### [7.7 Runtime Environment](https://www.youtube.com/watch_videos?video_ids=WKqMW7UWphs,1ggsTgBoMlM,ZCbg1kKCgos,V6cP59hy4XU,RmXfK3JLByM,XgQc2cqbXY0,ZjmyzjL353Y,F0fFM29EZRg)
 
 ## Theory Of Computation
 
-### [8.1 Finite Automata and Transducer](https://www.youtube.com/watch_videos?video_ids=t4Ks-eqj7xY,F_N__lXOC1s,MHDaXBqD2mI,-ykI-7PPrpc,CcL8N9JhAwo,4edlS1o09oY,LUPI1jSWtWY,R5qzIAsrMjo,ADdXtsikjHs,hPFNYdFlRWk,s31veGqJzDA,mo1OhY6GiLQ,8PM17nJmxQ8,2kOSLynGahs,gwOLWEMgs1Y,um9CSKEAXfQ,3NGD_M0V2p8,gWqL8FZkRPY,sq7YIfmjES8,EVN17FysiOY,zfCS6JM4BtA,P5HP90z4Bgk)
+### [8.1 Finite Automata and Transducer](https://www.youtube.com/watch_videos?video_ids=t4Ks-eqj7xY,F_N__lXOC1s,MHDaXBqD2mI,-ykI-7PPrpc,CcL8N9JhAwo,4edlS1o09oY,LUPI1jSWtWY,R5qzIAsrMjo,2kfgyAWE5rQ,ADdXtsikjHs,hPFNYdFlRWk,s31veGqJzDA,mo1OhY6GiLQ,8PM17nJmxQ8,2kOSLynGahs,gwOLWEMgs1Y,IrHkrf1q7-c,tqugHu4d544,um9CSKEAXfQ,3NGD_M0V2p8,gWqL8FZkRPY,sq7YIfmjES8,EVN17FysiOY,zfCS6JM4BtA,P5HP90z4Bgk)
 
-Missing videos:
-- [MISSING:8.1 Finite Automata and Transducer\IMG20250102124049.jpg]
-- [MISSING:8.1 Finite Automata and Transducer\IMG20250102124115.jpg]
-- [MISSING:8.1 Finite Automata and Transducer\IMG20250102124118.jpg]
+### [8.2 Regular Expression](https://www.youtube.com/watch_videos?video_ids=QuF9gRJEQWA,6idqFmB5wHk,aaABsaechb0,3ZuykTSb5T8,0zemA0qbwOY,z7tr2vsbLOc,DLLHza-RvJs,GjLzuZew4QY,FZGet4JXZR8,Myh-4zjRQsU,hUCNeyxaZIw,QdeLr9dWPME,t0O9WlW5z4Y,-B2PH2RnliI,mkMqjpfrN_Q,Q3nShCF3ym4,CnQsmo4jljA,dbEXkjlXKi0,veLC-K9rCWg,iQzI8LJwb-Y,AHVbIrHLlRA)
 
-### [8.2 Regular Expression](https://www.youtube.com/watch_videos?video_ids=QuF9gRJEQWA,6idqFmB5wHk,aaABsaechb0,0zemA0qbwOY,z7tr2vsbLOc,DLLHza-RvJs,GjLzuZew4QY,FZGet4JXZR8,Myh-4zjRQsU,hUCNeyxaZIw,QdeLr9dWPME,t0O9WlW5z4Y,-B2PH2RnliI,mkMqjpfrN_Q,Q3nShCF3ym4,CnQsmo4jljA,dbEXkjlXKi0,veLC-K9rCWg,iQzI8LJwb-Y,AHVbIrHLlRA)
+### [8.3 Regular Language and Grammar](https://www.youtube.com/watch_videos?video_ids=tKl5J84gbEA,nOpOfrtztBg,B9lAI377PTI,S8_rwU5sQpE,sPJ218e21yg,QjgxEejhpiM,QTIzmtViAOY,Tc2EOv_AiM0,UceMU-ppeJ8,z2Fi2xsN858,5yixT3LosUk,lQN3k8o3zZI,B0pXRW1fM0w,z93GynU-7Ik)
 
-Missing videos:
-- [MISSING:8.2 Regular Expression\IMG20250102124235.jpg]
+### [8.4 Context Free Language and Context Free Grammar](https://www.youtube.com/watch_videos?video_ids=4NvU-rvkLh4,6eBBMAffuhM,l_ttxyopPb0,g8wAuPhnUZE,p0jv2rvjrbs,ih3CkM-cXX4,z6iisPMYiOQ,omSzyuP2ofY,rCq1O7iEq-A,NkC7np6G3gk,ZUGo4GcjI_E,QW1kZUBxpO4,OvKf9MH5aqA,ILh-dVWtb-c,A3aE7s06SUo,wa2UnaCHpp8,mqVh2UEdR7c,bEwMnvMpp_o,8xcTRsD5BKI,8EMUOy6doEk,N0OZfcpjH9U,BxPUNW87cEo,H8KcPLu47xc,eqxkVBoMEHE,SCiK3emFSJ8,mEP9i1auIVQ,YeZUeS7d_fA,1rc9tqNK-NA,9RyNRyCd43I,NOuHD9zrEwU,vmvyJNQmxLU,1sttB8XW498,zf_hvPXG-Rg,wRKLpDATSzg,8pJcFZvW6Tk,uNwtOuprlGI,rPPB_FJcMQE)
 
-### [8.3 Regular Language and Grammar](https://www.youtube.com/watch_videos?video_ids=tKl5J84gbEA,nOpOfrtztBg,B9lAI377PTI,sPJ218e21yg,QjgxEejhpiM,QTIzmtViAOY,Tc2EOv_AiM0,5yixT3LosUk,B0pXRW1fM0w,z93GynU-7Ik)
+### [8.5 Turing Machine](https://www.youtube.com/watch_videos?video_ids=Ypdp-3txrT8,7hdw8-75hyE,bnhc3Lzb7mA,bMX2DfXjTn8,WsZ03FOGrLg,4VlZC2DqYrE,RYc1dh6Lad8,17w5hFDgAZY,L39BHL6KzMU,bqNeThf3sEs,Q6DuCTOlhV0,JPbRL8MY6GA,pSGSk5ieN1k,jJV_kVCD5p0,75ik1kYA4Xk,x1TjzgaszlQ,00GHE_GySAw,LHNPBsins-o,m_MYRBdxh7k)
 
-Missing videos:
-- [MISSING:8.3 Regular Language and Grammar\IMG20250102124418.jpg]
-- [MISSING:8.3 Regular Language and Grammar\IMG20250102124430.jpg]
-- [MISSING:8.3 Regular Language and Grammar\IMG20250102124438.jpg]
-- [MISSING:8.3 Regular Language and Grammar\IMG20250102124443.jpg]
-
-### [8.4 Context Free Language and Context Free Grammar](https://www.youtube.com/watch_videos?video_ids=l_ttxyopPb0,g8wAuPhnUZE,p0jv2rvjrbs,ih3CkM-cXX4,z6iisPMYiOQ,omSzyuP2ofY,rCq1O7iEq-A,NkC7np6G3gk,ZUGo4GcjI_E,QW1kZUBxpO4,OvKf9MH5aqA,ILh-dVWtb-c,A3aE7s06SUo,wa2UnaCHpp8,mqVh2UEdR7c,bEwMnvMpp_o,8xcTRsD5BKI,8EMUOy6doEk,N0OZfcpjH9U,BxPUNW87cEo,H8KcPLu47xc,eqxkVBoMEHE,SCiK3emFSJ8,mEP9i1auIVQ,YeZUeS7d_fA,1rc9tqNK-NA,9RyNRyCd43I,NOuHD9zrEwU,vmvyJNQmxLU,1sttB8XW498,zf_hvPXG-Rg,wRKLpDATSzg,8pJcFZvW6Tk,uNwtOuprlGI,rPPB_FJcMQE)
-
-Missing videos:
-- [MISSING:8.4 Context Free Language and Context Free Grammar\IMG20250102124504.jpg]
-- [MISSING:8.4 Context Free Language and Context Free Grammar\IMG20250102124526.jpg]
-
-### [8.5 Turing Machine](https://www.youtube.com/watch_videos?video_ids=Ypdp-3txrT8,7hdw8-75hyE,bnhc3Lzb7mA,bMX2DfXjTn8,WsZ03FOGrLg,4VlZC2DqYrE,RYc1dh6Lad8,17w5hFDgAZY,L39BHL6KzMU,bqNeThf3sEs,Q6DuCTOlhV0,JPbRL8MY6GA,pSGSk5ieN1k,jJV_kVCD5p0,75ik1kYA4Xk,00GHE_GySAw,LHNPBsins-o,m_MYRBdxh7k)
-
-Missing videos:
-- [MISSING:8.5 Turing Machine\IMG20250102124837.jpg]
-
-### [8.6 Undecidability and Reducibility](https://www.youtube.com/watch_videos?video_ids=25Zjvh5yW5Q,A_hLHGZZ7_E,2DAhgNUVOuE,Ph_jymNIhdg,DQ_xTJsVfJw,KAeexKpdPIY,AR7Cas1wZvE,kUuXWoCPrQc,NGbDKWPO40o,760oVuY0nkA,di0I6Nm43k4,4ytoZBHR6vE,6LEqbd-qv5o,q87WdxgmAn0,BTNWLOFW3h8)
-
-Missing videos:
-- [MISSING:8.6 Undecidability and Reducibility\IMG20250102124920.jpg]
-- [MISSING:8.6 Undecidability and Reducibility\IMG20250102124949.jpg]
+### [8.6 Undecidability and Reducibility](https://www.youtube.com/watch_videos?video_ids=vbDwVgFBGsI,25Zjvh5yW5Q,A_hLHGZZ7_E,2DAhgNUVOuE,Ph_jymNIhdg,DQ_xTJsVfJw,KAeexKpdPIY,AR7Cas1wZvE,kUuXWoCPrQc,NGbDKWPO40o,KE90w379AAQ,760oVuY0nkA,di0I6Nm43k4,4ytoZBHR6vE,6LEqbd-qv5o,q87WdxgmAn0,BTNWLOFW3h8)
 
 ## Digital Logic
 
-### [9.1 Number System and Binary Codes](https://www.youtube.com/watch_videos?video_ids=J06SlSsPpzw,HhqK4YUj0NU,Ny925mh_muU,gZ2Lc7xw0oE,lzjjlboUbOU,tn_vtvV6zCc,WOEOsxu7BWE,x2Z3Xrk64Fk,Q4pNzfL29iM,_7r6Tl3OzY4,V7r2DluEFDg,Gb3xFD6NVDg,6ugSd2gf_BI,yOYLq4jvsqY,cWiQn3iBblI,udl6KGjGQ14)
+### [9.1 Number System and Binary Codes](https://www.youtube.com/watch_videos?video_ids=J06SlSsPpzw,HhqK4YUj0NU,Ny925mh_muU,gZ2Lc7xw0oE,lzjjlboUbOU,tn_vtvV6zCc,WOEOsxu7BWE,x2Z3Xrk64Fk,LlOY0qyV6Ew,Q4pNzfL29iM,_7r6Tl3OzY4,isoU6dq49HA,V7r2DluEFDg,Gb3xFD6NVDg,6ugSd2gf_BI,yOYLq4jvsqY,cWiQn3iBblI,udl6KGjGQ14)
 
-Missing videos:
-- [MISSING:9.1 Number System and Binary Codes\IMG20250102125253.jpg]
-- [MISSING:9.1 Number System and Binary Codes\IMG20250102125302.jpg]
+### [9.2 Boolean Algebra Logic Gates and K Maps](https://www.youtube.com/watch_videos?video_ids=-7yzwm4-SAo,dOqyn7zAbYA,bdtPLs5jo2w,sT5Kj-sh7T4,j8-3--zXLjo,KeRn0G2gj8o,qx2nwiWD0A0,xVEpWVaC0BI,LFNxgKi2zv8,GyhwV9pI9vI,1Q-ul96xPEU,Qp2xlonrLFM,DQWoZinjlIs,_9gBOdqqfX0,UPg0YmQRDNY,J9QoQl7u3lI,5J4LVa_DErE,CcSgX2rP_tY,rrcR4Cfl_dc,GBooDfTFPSc,l9lI_KSujQk,4wV-D9uOuEM,NtEWJxvaSzw,od-TXQIMLBY,4WVcx8yh19M,8pwTH_bATFY,XJ_X7-ASYKY,1JVt8LXFuTM,dgMyc1G5sts,AqepZJ4Fs44,h2k1moA4rQQ,Y1kUS3xFccs,qkYxi4-mqjg,PNitCm-Ys-E,hNFG1-xEl3c,Xtgs7yNR4qI)
 
-### [9.2 Boolean Algebra Logic Gates and K Maps](https://www.youtube.com/watch_videos?video_ids=dOqyn7zAbYA,bdtPLs5jo2w,sT5Kj-sh7T4,j8-3--zXLjo,KeRn0G2gj8o,qx2nwiWD0A0,xVEpWVaC0BI,LFNxgKi2zv8,GyhwV9pI9vI,1Q-ul96xPEU,Qp2xlonrLFM,DQWoZinjlIs,_9gBOdqqfX0,UPg0YmQRDNY,J9QoQl7u3lI,5J4LVa_DErE,CcSgX2rP_tY,rrcR4Cfl_dc,GBooDfTFPSc,l9lI_KSujQk,4wV-D9uOuEM,NtEWJxvaSzw,od-TXQIMLBY,4WVcx8yh19M,8pwTH_bATFY,XJ_X7-ASYKY,1JVt8LXFuTM,dgMyc1G5sts,AqepZJ4Fs44,h2k1moA4rQQ,Y1kUS3xFccs,qkYxi4-mqjg,PNitCm-Ys-E,hNFG1-xEl3c)
+### [9.3 Combinational Logic Circuits](https://www.youtube.com/watch_videos?video_ids=_sFO2wNJIKs,Zl4zpTPMtwA,nHsJjTZdnf4,7br_vTgBS0o,8wQE1QR2Uq8,_khMKejRNWk,7aEFYMvoaBc,_dF10IumRck,F-MYBiKUv5M,L1ZEm6XseKU,jA19s-MeUfQ,OYEO1eMjg-U)
 
-Missing videos:
-- [MISSING:9.2 Boolean Algebra Logic Gates and K Maps\IMG20250102125358.jpg]
-- [MISSING:9.2 Boolean Algebra Logic Gates and K Maps\IMG20250102125542.jpg]
-
-### [9.3 Combinational Logic Circuits](https://www.youtube.com/watch_videos?video_ids=_sFO2wNJIKs,Zl4zpTPMtwA,nHsJjTZdnf4,7br_vTgBS0o,8wQE1QR2Uq8,_khMKejRNWk,7aEFYMvoaBc,L1ZEm6XseKU,jA19s-MeUfQ,OYEO1eMjg-U)
-
-Missing videos:
-- [MISSING:9.3 Combinational Logic Circuits\IMG20250102125619.jpg]
-- [MISSING:9.3 Combinational Logic Circuits\IMG20250102125622.jpg]
-
-### [9.4 Sequential Circuits](https://www.youtube.com/watch_videos?video_ids=XYmIKTnnShs,o1jTzJKbchw,oSPtcDAEqMg,D0RmzamsHXc,pZs4nc-cqt0,Xip_-MbHUrs,VuCkguHQ2Q4,rsdTGqfhhqs,ZkLaJt1muK4,UJnaXk3tHPs,lEiMukH1gSc,ohrA1Hsz-mk,Hi6hQKKaKyk,_TRRft9jKkE,pNclhZwL5kU,Md1nJz201vU)
-
-Missing videos:
-- [MISSING:9.4 Sequential Circuits\IMG20250102125713.jpg]
+### [9.4 Sequential Circuits](https://www.youtube.com/watch_videos?video_ids=XYmIKTnnShs,o1jTzJKbchw,oSPtcDAEqMg,D0RmzamsHXc,pZs4nc-cqt0,Xip_-MbHUrs,VuCkguHQ2Q4,kjyWRNrkd94,rsdTGqfhhqs,ZkLaJt1muK4,UJnaXk3tHPs,lEiMukH1gSc,ohrA1Hsz-mk,Hi6hQKKaKyk,_TRRft9jKkE,pNclhZwL5kU,Md1nJz201vU)
 
 ## Discrete Mathematics
 
-### [10.1 Propositional Logic](https://www.youtube.com/watch_videos?video_ids=KRn-GCVh8Hs,Lkd_nl1PEBE,En4i9hB_-ps,_G5tY0--iSU,6lnp-8ad1oI,OgshivVoNyw,9HglXkudeLY,iktRX0n5Bq4,OHu9IFqVekA,rpal6DPlpvE,T-uLHl_TX_Y,ce8Bb8OgrdI,pK7OiokxXq0,P1dK2kRHpEM,EKUtPEkffnI,-jMDaYD9XLA,QfE_3svnQIs,ETobHRhsst0,yF2Tuo0ddrI,zL2a8Arc2Ds,NaR0z5tVATU,fpU2LKQ6Cf0)
+### [10.1 Propositional Logic](https://www.youtube.com/watch_videos?video_ids=KRn-GCVh8Hs,Lkd_nl1PEBE,En4i9hB_-ps,_G5tY0--iSU,6lnp-8ad1oI,OgshivVoNyw,9HglXkudeLY,iktRX0n5Bq4,OHu9IFqVekA,rpal6DPlpvE,T-uLHl_TX_Y,ce8Bb8OgrdI,F7-P7Ru5Vbg,pK7OiokxXq0,P1dK2kRHpEM,EKUtPEkffnI,-jMDaYD9XLA,QfE_3svnQIs,ETobHRhsst0,yF2Tuo0ddrI,pOkT-UrPILA,zL2a8Arc2Ds,NaR0z5tVATU,fpU2LKQ6Cf0)
+
+### [10.2 Sets Relations and Functions](https://www.youtube.com/watch_videos?video_ids=bfmzhqPPvLo,84sCj_Nb91k,CEpXFgAUGIg,4ZjbFM5XMpc,77-K8vot9Yk,MSJxpQenZAc,GGRwBhlrusE,b1O0e8ifxuI,coseuwM88UI,vVTvvSHFq4Q,Jt-aB4UjWbs,1Hs3_AYWPsQ,OiBidyyXnq8,_D39YJ__J_0,6PwVIt2BFEE,sQG8eGv8BKw,6gEVjJj_GIo,OXWBnMzqLww,xSCI3hc7vxY,PZhM2xuZfzE,rcdt99_-9wc,Xfz9-7tyXFg,p4LD3fxcYuM,76CU4S5zPlQ,_5s23vSlWKQ,hEAEniKpDcc,QezmnguzXbA,yLIER4SRCfk,LsvsuekPqNs,qDP5kX3f2KM)
 
 Missing videos:
-- [MISSING:10.1 Propositional Logic\IMG20250102130109.jpg]
-- [MISSING:10.1 Propositional Logic\IMG20250102130139.jpg]
-
-### [10.2 Sets Relations and Functions](https://www.youtube.com/watch_videos?video_ids=bfmzhqPPvLo,84sCj_Nb91k,CEpXFgAUGIg,4ZjbFM5XMpc,77-K8vot9Yk,MSJxpQenZAc,GGRwBhlrusE,coseuwM88UI,vVTvvSHFq4Q,Jt-aB4UjWbs,1Hs3_AYWPsQ,OiBidyyXnq8,_D39YJ__J_0,6PwVIt2BFEE,sQG8eGv8BKw,6gEVjJj_GIo,OXWBnMzqLww,xSCI3hc7vxY,PZhM2xuZfzE,rcdt99_-9wc,Xfz9-7tyXFg,p4LD3fxcYuM,76CU4S5zPlQ,_5s23vSlWKQ,hEAEniKpDcc,QezmnguzXbA,yLIER4SRCfk,LsvsuekPqNs,qDP5kX3f2KM)
-
-Missing videos:
-- [MISSING:10.2 Sets Relations and Functions\IMG20250102130226.jpg]
 - [MISSING:10.2 Sets Relations and Functions\IMG20250102130316.jpg]
 
-### [10.3 Graph Theory](https://www.youtube.com/watch_videos?video_ids=mWWHlEwptoc,6oF2jxXGZaE,XfSj7c4BSck,m3STJIHkofU,t0_PJE8mPn0,bR0B-HXMvO0,SViVchShjjY,ybl2SM-VthA,NpNBO5hyh-4,bDQGR9gVUEQ,olYksHT_znA,uM27ZbU4JDs,7zYMm_A6YZI,yJWjaBLDcJw,9pKc0ZVieVY,cxM-aSswzEs,ZGM9250w5JE,9pbWei-p2GU,Abm42fb76nI,7BhaHyZCqE0,HjVYUFxNR_I,xe3nuncMaYM,HoZrMVW6J1A,pNLKvL3UK7U,9dXOCX3OEOc,ZkFlVFgXwuY,5nqjiB0nMQM,EpXjR8AaJCY,-tve4mcEqcc)
-
-Missing videos:
-- [MISSING:10.3 Graph Theory\IMG20250102130355.jpg]
-- [MISSING:10.3 Graph Theory\IMG20250102130407.jpg]
-- [MISSING:10.3 Graph Theory\IMG20250102130504.jpg]
+### [10.3 Graph Theory](https://www.youtube.com/watch_videos?video_ids=P3sXYjnx2d0,mWWHlEwptoc,6oF2jxXGZaE,XfSj7c4BSck,9CjFyb0L2Wo,m3STJIHkofU,t0_PJE8mPn0,bR0B-HXMvO0,SViVchShjjY,ybl2SM-VthA,NpNBO5hyh-4,bDQGR9gVUEQ,olYksHT_znA,uM27ZbU4JDs,7zYMm_A6YZI,yJWjaBLDcJw,9pKc0ZVieVY,cxM-aSswzEs,ZGM9250w5JE,9pbWei-p2GU,Hg5Hz_TayYc,Abm42fb76nI,7BhaHyZCqE0,HjVYUFxNR_I,xe3nuncMaYM,HoZrMVW6J1A,pNLKvL3UK7U,9dXOCX3OEOc,ZkFlVFgXwuY,5nqjiB0nMQM,EpXjR8AaJCY,-tve4mcEqcc)
 
 ### [10.4 Combinatorics](https://www.youtube.com/watch_videos?video_ids=Lm1NPXsXZ04,U-fBht2Mzug,PDCRGgYC7bk,lQKn3kTCQ34,RPGKOnl8YBk,iVrh8H5-s-I,vQkPwNgRqw8,hR-7QLqD_bg,0Et9LdK2NRY,e2-5nTuSVS4,S_-7TQFMuFA,wEOCOD5MsnY,Ne2I00A17cQ,ObdwhRk2OpA,xnQYy9axGyo)
 
