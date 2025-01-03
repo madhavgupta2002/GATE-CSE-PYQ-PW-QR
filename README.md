@@ -39,93 +39,63 @@ Missing videos:
 
 ### [3.3 MAC Sublayer](https://www.youtube.com/watch_videos?video_ids=AyxNzN4WGkE,mFPZl5CwIiA,ivMX9MniKJk,jiB7XS0-GCw)
 
-Missing videos:
-- [MISSING:3.3 MAC-Sublayer\IMG20250101203844.jpg]
-
-### [3.4 Network Layer](https://www.youtube.com/watch_videos?video_ids=JHRL-Gih0YM,rrniRLBuA5k,bpL_JFc8i40,5F_wD8xYEmo,XeiHBioN78g,6O6Nor0TIH4,kHdI_zdrKoI,0y9b63cqq-0,e02RwU3I6tg,93UoP8rTBmo,wFWWpMSQhjc,mvHoPGm-FlA,_4wTTXZW34Q,EbUtjkheDIg,ZPZ14AYB0X4,8opZNLiNRK0,gI3DiaYKdDw,P5Wl6WWcMmw,HfVEHwDWdu4,JPchzSIOnY8,5ZQPOLgXZDY,RkwHZXfN1t0,h5EOHfKqfyY,ceWlbDhgIgQ,L5raUVJKpsc)
+### [3.4 Network Layer](https://www.youtube.com/watch_videos?video_ids=JHRL-Gih0YM,rrniRLBuA5k,bpL_JFc8i40,5F_wD8xYEmo,Yfn_rdyARyc,XeiHBioN78g,6O6Nor0TIH4,kHdI_zdrKoI,0y9b63cqq-0,e02RwU3I6tg,93UoP8rTBmo,wFWWpMSQhjc,mvHoPGm-FlA,_4wTTXZW34Q,EbUtjkheDIg,ZPZ14AYB0X4,8opZNLiNRK0,gI3DiaYKdDw,P5Wl6WWcMmw,HfVEHwDWdu4,JPchzSIOnY8,5ZQPOLgXZDY,RkwHZXfN1t0,h5EOHfKqfyY,ceWlbDhgIgQ,L5raUVJKpsc)
 
 Missing videos:
-- [MISSING:3.4 Network-Layer\IMG20250101203943.jpg]
 - [MISSING:3.4 Network-Layer\IMG20250101204015.jpg]
-- [MISSING:3.4 Network-Layer\IMG20250101204018.jpg]
 - [MISSING:3.4 Network-Layer\IMG20250101204058.jpg]
 
-### [3.5 Transport Layer](https://www.youtube.com/watch_videos?video_ids=psJFLUexpSk,4LbmUDXzz70,BbkKQKtl1Xk,NnsbU771weg,zpI3MED9wmQ,qaxTdnF-uno,MJoNnQKPSNU,qss9x3q2zG4,lk9nhOgKOPc,pIRMUz15UpY,ec_Zjur59kA,dWNBNxIH_GI,QvGzy87jRFI)
+### [3.5 Transport Layer](https://www.youtube.com/watch_videos?video_ids=psJFLUexpSk,4LbmUDXzz70,BbkKQKtl1Xk,NnsbU771weg,zpI3MED9wmQ,qaxTdnF-uno,MJoNnQKPSNU,qss9x3q2zG4,lk9nhOgKOPc,pIRMUz15UpY,yj2u5Wd_ufU,ec_Zjur59kA,dWNBNxIH_GI,QvGzy87jRFI)
 
 Missing videos:
-- [MISSING:3.5 Transport-Layer\IMG20250101204155.jpg]
 - [MISSING:3.5 Transport-Layer\IMG20250101204234.jpg]
-- [MISSING:3.5 Transport-Layer\IMG20250101204241.jpg]
-- [MISSING:3.5 Transport-Layer\IMG20250101204325.jpg]
-- [MISSING:3.5 Transport-Layer\IMG20250101204345.jpg]
 - [MISSING:3.5 Transport-Layer\IMG20250101204353.jpg]
 
-### [3.6 Application Layer](https://www.youtube.com/watch_videos?video_ids=yRlD7Ow0I8Q,Q9rW4LaSMc8,DcVHn2XbdgM,jhrYLfYbFxw,IoBCAO6FOio,TcJU5eO-iH8,c2WvE-fFx-c,4FN6EaO7oa0)
+### [3.6 Application Layer](https://www.youtube.com/watch_videos?video_ids=7GfdKdRXocQ,yRlD7Ow0I8Q,Q9rW4LaSMc8,DcVHn2XbdgM,jhrYLfYbFxw,IoBCAO6FOio,TcJU5eO-iH8,c2WvE-fFx-c,4FN6EaO7oa0,QYdia5XjbIo)
 
 Missing videos:
-- [MISSING:3.6 Application-Layer\IMG20250101204400.jpg]
-- [MISSING:3.6 Application-Layer\IMG20250101204424.jpg]
-- [MISSING:3.6 Application-Layer\IMG20250101204506.jpg]
 - [MISSING:3.6 Application-Layer\IMG20250101204509.jpg]
 - [MISSING:3.6 Application-Layer\IMG20250101204513.jpg]
 
 ## Computer Organization and Architecture
 
-### [4.1 Machine Instruction and Addressing Modes](https://www.youtube.com/watch_videos?video_ids=nM0HFG8ful4,127aalZRCgU,Oqx1J6_Xnxg,3ltjnrp1tQE,O33Ez7XT0lE,J-AZY5L4uEc,CyKXdFRkPlM,oBmRXIfcAdE,OlhkhbVdwD8,1UjA_lOFMtQ,CRhOeYkFGFw,SGw7ArtVch8,slgUiugG41A,qUIwQ_B4ML8,OpJVMk7vul8,ZgpdK3VlNB8,zftAK3ldWto,kTWQ8k3O1-A,UGY0bxueQa8)
+### [4.1 Machine Instruction and Addressing Modes](https://www.youtube.com/watch_videos?video_ids=nM0HFG8ful4,127aalZRCgU,Oqx1J6_Xnxg,3ltjnrp1tQE,AjklU1Y2HGg,O33Ez7XT0lE,J-AZY5L4uEc,CyKXdFRkPlM,oBmRXIfcAdE,OlhkhbVdwD8,sOcOvEyVbxE,1UjA_lOFMtQ,CRhOeYkFGFw,SGw7ArtVch8,QfB-xMFjf-I,slgUiugG41A,qUIwQ_B4ML8,OpJVMk7vul8,ZgpdK3VlNB8,zftAK3ldWto,kTWQ8k3O1-A,UGY0bxueQa8,qpjDHoPI6GU)
 
 Missing videos:
-- [MISSING:4.1 Machine Instruction and Addressing Modes\IMG20250101205107.jpg]
-- [MISSING:4.1 Machine Instruction and Addressing Modes\IMG20250101205130.jpg]
 - [MISSING:4.1 Machine Instruction and Addressing Modes\IMG20250101205150.jpg]
-- [MISSING:4.1 Machine Instruction and Addressing Modes\IMG20250101205154.jpg]
 - [MISSING:4.1 Machine Instruction and Addressing Modes\IMG20250101205219.jpg]
 - [MISSING:4.1 Machine Instruction and Addressing Modes\IMG20250101205221.jpg]
-- [MISSING:4.1 Machine Instruction and Addressing Modes\IMG20250101205226.jpg]
 
-### [4.2 ALU and Control Unit](https://www.youtube.com/watch_videos?video_ids=IO8fGQGZtlc,Op9ucDojzJU,PYGlMJ4iJPE,I5m1xDEb910)
+### [4.2 ALU and Control Unit](https://www.youtube.com/watch_videos?video_ids=IO8fGQGZtlc,ZRoG-PadZkU,Op9ucDojzJU,PYGlMJ4iJPE,I5m1xDEb910)
 
-Missing videos:
-- [MISSING:4.2 ALU and Control Unit\IMG20250101205247.jpg]
-
-### [4.3 Instruction Pipelining](https://www.youtube.com/watch_videos?video_ids=CWFZRrrqKj8,WzgLsUWWovo,xaArEZLQIJA,Y9cY1kGAmjM,4sbL5gvQd3U,3L4W_EuBL54,oVbnGid5OT8,Q0EUBrHNOxI,azHYGsHGKuE,bBtrCJJGK9M,n2Lm8p7Nk0k,1Qr5_cqhz54,VxpF7UHkvB8,_MYlEqLD3_o,pZg8gtvmVlM,znduZieKYio,Y1fYtG5aXRM,SUwwF9cxlbs,DN53767sEvk,fFdR5BEgOBM,GjRmrONEFM0,5hXlwmoe7zI,JzCFNM7jwyU,2pJh-1cNk1A,2Osl4_CwREE)
+### [4.3 Instruction Pipelining](https://www.youtube.com/watch_videos?video_ids=CWFZRrrqKj8,WzgLsUWWovo,xaArEZLQIJA,Y9cY1kGAmjM,4sbL5gvQd3U,3L4W_EuBL54,oVbnGid5OT8,Q0EUBrHNOxI,XOHfC5lDP3w,azHYGsHGKuE,bBtrCJJGK9M,n2Lm8p7Nk0k,XgXxENYtUxw,1Qr5_cqhz54,VxpF7UHkvB8,_MYlEqLD3_o,pZg8gtvmVlM,znduZieKYio,Y1fYtG5aXRM,SUwwF9cxlbs,DN53767sEvk,fFdR5BEgOBM,GjRmrONEFM0,IYsGIRV0sJo,QJC1FijzKmw,5hXlwmoe7zI,JzCFNM7jwyU,2pJh-1cNk1A,2Osl4_CwREE,rbngV33hN-g)
 
 Missing videos:
-- [MISSING:4.3 Instruction Pipelining\IMG20250101205346.jpg]
-- [MISSING:4.3 Instruction Pipelining\IMG20250101205406.jpg]
 - [MISSING:4.3 Instruction Pipelining\IMG20250101205409.jpg]
 - [MISSING:4.3 Instruction Pipelining\IMG20250101205430.jpg]
-- [MISSING:4.3 Instruction Pipelining\IMG20250101205513.jpg]
-- [MISSING:4.3 Instruction Pipelining\IMG20250101205516.jpg]
 - [MISSING:4.3 Instruction Pipelining\IMG20250101205532.jpg]
-- [MISSING:4.3 Instruction Pipelining\IMG20250101205535.jpg]
 
-### [4.4 Memory Hierarchy](https://www.youtube.com/watch_videos?video_ids=nR3Eljc7XRY,mBM0nSEnjqE,QaSgmYWXBn0,ZK32GpZLj3U,RRNxjrfgNGA,fSfcJn7rQiI,PRup1DWuSNI,6ic5Qi75h9U,yxRCCF45r4g,VP7KJKteRtw,G2mGwwwAfHg,bgQiMjl0ppo,LnAMdCMZIRc,JX3iN7AvFlo,E8WeUezsvHo,i6MsS2JGzNM,ZmgHPIXnJ6s,qMpLzBB3jNA,HEf6wvUoxkU,z1FwxEev5gc,RCZ0gBb2oTQ,gK26taAWfIE,lEslH36nVfI,_3bDugavAZc,Ed3thYqYSA0,p3PpvhBIgrc,55G25eLMEJw,AdTEGudBGyQ,qH838Z8hQVk,-Oey6V-5qzs,9QH65DiKPIs,-6C5GVT6mO8,CRMgF8vUmMw,J8VdTS4e4FU,7rfsVhAYGhA)
+### [4.4 Memory Hierarchy](https://www.youtube.com/watch_videos?video_ids=nR3Eljc7XRY,mBM0nSEnjqE,QaSgmYWXBn0,ZK32GpZLj3U,RRNxjrfgNGA,fSfcJn7rQiI,PRup1DWuSNI,6ic5Qi75h9U,BoF-QDKu6PA,7_QPkLvzZh0,yxRCCF45r4g,VP7KJKteRtw,G2mGwwwAfHg,bgQiMjl0ppo,LnAMdCMZIRc,JX3iN7AvFlo,E8WeUezsvHo,i6MsS2JGzNM,ZmgHPIXnJ6s,qMpLzBB3jNA,HEf6wvUoxkU,z1FwxEev5gc,RCZ0gBb2oTQ,gK26taAWfIE,Ed-9pzGWHm0,lEslH36nVfI,_3bDugavAZc,Ed3thYqYSA0,p3PpvhBIgrc,55G25eLMEJw,AdTEGudBGyQ,qH838Z8hQVk,-Oey6V-5qzs,9QH65DiKPIs,-6C5GVT6mO8,CRMgF8vUmMw,J8VdTS4e4FU,7rfsVhAYGhA)
 
 Missing videos:
 - [MISSING:4.4 Memory Hierarchy\IMG20250101205549.jpg]
 - [MISSING:4.4 Memory Hierarchy\IMG20250101205603.jpg]
 - [MISSING:4.4 Memory Hierarchy\IMG20250101205626.jpg]
 - [MISSING:4.4 Memory Hierarchy\IMG20250101205630.jpg]
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205643.jpg]
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205646.jpg]
 - [MISSING:4.4 Memory Hierarchy\IMG20250101205702.jpg]
 - [MISSING:4.4 Memory Hierarchy\IMG20250101205723.jpg]
 - [MISSING:4.4 Memory Hierarchy\IMG20250101205745.jpg]
 - [MISSING:4.4 Memory Hierarchy\IMG20250101205749.jpg]
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205808.jpg]
 - [MISSING:4.4 Memory Hierarchy\IMG20250101205832.jpg]
 - [MISSING:4.4 Memory Hierarchy\IMG20250101205835.jpg]
 
-### [4.5 IO Interface](https://www.youtube.com/watch_videos?video_ids=PlohFC8HhoI,t3japIGxD70,AgRWmh1VH3k,oqW8ex4oSrA,q9efCXPcJ6I,iAdlz48Nu5w,kXSmHuz81G4,Wtoui5lTtyE,uMGR0paOAMc,1P4O8bhXeRk)
+### [4.5 IO Interface](https://www.youtube.com/watch_videos?video_ids=AF-srn-xO6U,PlohFC8HhoI,t3japIGxD70,AgRWmh1VH3k,oqW8ex4oSrA,q9efCXPcJ6I,iAdlz48Nu5w,kXSmHuz81G4,Wtoui5lTtyE,uMGR0paOAMc,1P4O8bhXeRk,Xem6eg_CUzQ,KAtfgcgSVus)
 
 Missing videos:
-- [MISSING:4.5 IO Interface\IMG20250101210204.jpg]
 - [MISSING:4.5 IO Interface\IMG20250101210220.jpg]
 - [MISSING:4.5 IO Interface\IMG20250101210223.jpg]
 - [MISSING:4.5 IO Interface\IMG20250101210240.jpg]
-- [MISSING:4.5 IO Interface\IMG20250101210251.jpg]
 - [MISSING:4.5 IO Interface\IMG20250101210255.jpg]
-- [MISSING:4.5 IO Interface\IMG20250101210258.jpg]
 
 ## Programming and Data Structures
 
