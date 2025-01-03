@@ -40,11 +40,14 @@ def main():
         base_dirs = [d for d in os.listdir('.') if os.path.isdir(d) and any(d.startswith(f'{i:02d}.') for i in range(1, 11))]
         base_dirs.sort()
         
+        all_missing_videos = []  # Store all missing videos
+        
         # Process each main directory
         for base_dir in base_dirs:
-            # Write chapter heading
+            # Extract chapter number and name
+            chapter_num = base_dir.split('.')[0]
             chapter_name = base_dir.split('. ', 1)[1] if '. ' in base_dir else base_dir
-            md_file.write(f"## {chapter_name}\n\n")
+            md_file.write(f"## {chapter_num}. {chapter_name}\n\n")
             
             # Get all txt files in the directory
             txt_files = [f for f in os.listdir(base_dir) if f.endswith('.txt')]
@@ -61,10 +64,15 @@ def main():
                     playlist_url = create_playlist_url(video_ids)
                     md_file.write(f"### [{topic_name}]({playlist_url})\n\n")
                     if missing_videos:
-                        md_file.write("Missing videos:\n")
-                        for missing in missing_videos:
-                            md_file.write(f"- {missing}\n")
-                        md_file.write("\n")
+                        # Store missing videos with topic info
+                        all_missing_videos.append((topic_name, missing_videos))
+
+        # Write all missing videos at the end
+        for topic_name, missing_videos in all_missing_videos:
+            md_file.write(f"Missing videos for {topic_name}:\n")
+            for missing in missing_videos:
+                md_file.write(f"- {missing}\n")
+            md_file.write("\n")
 
 if __name__ == "__main__":
     main()
