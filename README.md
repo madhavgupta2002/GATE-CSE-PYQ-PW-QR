@@ -34,26 +34,62 @@ Missing videos:
 ### [3.2 Data Link Layer](https://www.youtube.com/watch_videos?video_ids=PvxeSap-ql8,Rg5FZvjJUU0,lL_k8rOsZ8M,63dK613Zcb8,mdoT6sGL2aQ,a7kSc15cRe4,a_HVX-eOBHI,T0I580Ca8-w,ooJH5p27lx0,mqKe4gxC-I4,Uz3PB-S5ibE,IkBJJQRw2S4,KPAHvFVvFa4,toNcR-rpgAU)
 
 Missing videos:
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/e9558805-ddae-4d9e-93be-c40c18f4cd1f]
 - [MISSING:3.2 Data-Link-Layer\IMG20250101203810.jpg]
 - [MISSING:3.2 Data-Link-Layer\IMG20250101203813.jpg]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/a10c35e6-f99c-40a4-aae7-b8f860815326]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/e4668efd-ed89-4b64-9cb6-8fa07fe16d1c]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/facae516-bc32-472b-b6cd-66cbe08565bb]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/7c995d59-5b47-4693-884b-9d0adbc2742a]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/11e33eaa-e7e5-4449-a8b3-889819979ef5]
 
 ### [3.3 MAC Sublayer](https://www.youtube.com/watch_videos?video_ids=AyxNzN4WGkE,mFPZl5CwIiA,ivMX9MniKJk,jiB7XS0-GCw)
+
+Missing videos:
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/ae162c90-818f-42d8-8219-115800472f41]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/b81b446e-0c73-44f6-8555-12b50bd69a0b]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/bc865632-c456-4ec0-8d21-cda07e66d5e5]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/f49cfebe-f99a-46c2-bc0a-de6d6c623ff1]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/ed76665f-f2af-4e74-a690-14a1960db281]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/37822568-8a08-4405-84d9-9e298c6b6adf]
 
 ### [3.4 Network Layer](https://www.youtube.com/watch_videos?video_ids=JHRL-Gih0YM,rrniRLBuA5k,bpL_JFc8i40,5F_wD8xYEmo,Yfn_rdyARyc,XeiHBioN78g,6O6Nor0TIH4,kHdI_zdrKoI,0y9b63cqq-0,e02RwU3I6tg,93UoP8rTBmo,wFWWpMSQhjc,mvHoPGm-FlA,_4wTTXZW34Q,EbUtjkheDIg,ZPZ14AYB0X4,8opZNLiNRK0,gI3DiaYKdDw,P5Wl6WWcMmw,HfVEHwDWdu4,JPchzSIOnY8,5ZQPOLgXZDY,RkwHZXfN1t0,h5EOHfKqfyY,ceWlbDhgIgQ,L5raUVJKpsc)
 
 Missing videos:
 - [MISSING:3.4 Network-Layer\IMG20250101204015.jpg]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/701818c5-46b0-4ff1-b6d5-2cf9c7c80d03]
 - [MISSING:3.4 Network-Layer\IMG20250101204058.jpg]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/1f5f470f-f135-4a2a-8ef8-1a6a39d4415d]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/1d3dd14d-f114-49b0-9cb7-7dd564198567]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/d7eea435-c0d7-4463-aeff-2fbfbd372b6f]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/f01e1b35-858d-4822-a2b8-2e01a8dab5c3]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/b50ef761-6954-492e-ad04-3ac97a79b588]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/b18168ed-6239-4add-89f2-916504a3c498]
 
 ### [3.5 Transport Layer](https://www.youtube.com/watch_videos?video_ids=psJFLUexpSk,4LbmUDXzz70,BbkKQKtl1Xk,NnsbU771weg,zpI3MED9wmQ,qaxTdnF-uno,MJoNnQKPSNU,qss9x3q2zG4,lk9nhOgKOPc,pIRMUz15UpY,yj2u5Wd_ufU,ec_Zjur59kA,dWNBNxIH_GI,QvGzy87jRFI)
 
 Missing videos:
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/5299640d-0742-4ddf-abad-2b7424b6a9ba]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/74aeb034-d002-4cd1-baf5-457e6ea7fb3f]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/d12910c5-1963-42be-a428-d1c3393732ca]
 - [MISSING:3.5 Transport-Layer\IMG20250101204234.jpg]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/0b79d029-94c1-4402-8115-47380d056e7c]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/a42055b1-59eb-44e9-84f7-f17d92925b5d]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/5a8a65ba-665e-4a07-983e-559c99ac6058]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/654ad2e4-dc13-4f05-891d-cc8c95de07fb]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/25cbaea4-cbe7-415c-871a-1186433f5f62]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/1afa009c-d944-4a7f-beaa-a546cae3e33f]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/64602a1b-f9a4-4492-8d02-a134e2edc1ff]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/dcc5b199-b0df-4fd7-9039-184ab51871bf]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/1a5349b3-17fa-4e84-86b4-a09b8157122a]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/051dba66-a916-4e35-9b42-5dca3ba29700]
 - [MISSING:3.5 Transport-Layer\IMG20250101204353.jpg]
 
 ### [3.6 Application Layer](https://www.youtube.com/watch_videos?video_ids=7GfdKdRXocQ,yRlD7Ow0I8Q,Q9rW4LaSMc8,DcVHn2XbdgM,jhrYLfYbFxw,IoBCAO6FOio,TcJU5eO-iH8,c2WvE-fFx-c,4FN6EaO7oa0,QYdia5XjbIo)
 
 Missing videos:
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/eb27e41a-b7b9-4f5a-9582-84adea976f35]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/afb423bc-7d38-4399-bb9a-93f86f9c49bc]
 - [MISSING:3.6 Application-Layer\IMG20250101204509.jpg]
 - [MISSING:3.6 Application-Layer\IMG20250101204513.jpg]
 
@@ -75,19 +111,7 @@ Missing videos:
 - [MISSING:4.3 Instruction Pipelining\IMG20250101205430.jpg]
 - [MISSING:4.3 Instruction Pipelining\IMG20250101205532.jpg]
 
-### [4.4 Memory Hierarchy](https://www.youtube.com/watch_videos?video_ids=nR3Eljc7XRY,mBM0nSEnjqE,QaSgmYWXBn0,ZK32GpZLj3U,RRNxjrfgNGA,fSfcJn7rQiI,PRup1DWuSNI,6ic5Qi75h9U,BoF-QDKu6PA,7_QPkLvzZh0,yxRCCF45r4g,VP7KJKteRtw,G2mGwwwAfHg,bgQiMjl0ppo,LnAMdCMZIRc,JX3iN7AvFlo,E8WeUezsvHo,i6MsS2JGzNM,ZmgHPIXnJ6s,qMpLzBB3jNA,HEf6wvUoxkU,z1FwxEev5gc,RCZ0gBb2oTQ,gK26taAWfIE,Ed-9pzGWHm0,lEslH36nVfI,_3bDugavAZc,Ed3thYqYSA0,p3PpvhBIgrc,55G25eLMEJw,AdTEGudBGyQ,qH838Z8hQVk,-Oey6V-5qzs,9QH65DiKPIs,-6C5GVT6mO8,CRMgF8vUmMw,J8VdTS4e4FU,7rfsVhAYGhA)
-
-Missing videos:
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205549.jpg]
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205603.jpg]
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205626.jpg]
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205630.jpg]
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205702.jpg]
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205723.jpg]
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205745.jpg]
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205749.jpg]
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205832.jpg]
-- [MISSING:4.4 Memory Hierarchy\IMG20250101205835.jpg]
+### [4.4 Memory Hierarchy](https://www.youtube.com/watch_videos?video_ids=ZiOxrpXF7zk,nR3Eljc7XRY,mBM0nSEnjqE,m7GhPUQWxUQ,QaSgmYWXBn0,ZK32GpZLj3U,RRNxjrfgNGA,fSfcJn7rQiI,oAmC-E6dxq8,FqfFBe9S6zU,PRup1DWuSNI,6ic5Qi75h9U,BoF-QDKu6PA,7_QPkLvzZh0,yxRCCF45r4g,VP7KJKteRtw,G2mGwwwAfHg,bgQiMjl0ppo,MxLaVdXHDxo,LnAMdCMZIRc,JX3iN7AvFlo,E8WeUezsvHo,i6MsS2JGzNM,ZmgHPIXnJ6s,DVD24KrP6X4,qMpLzBB3jNA,HEf6wvUoxkU,z1FwxEev5gc,RCZ0gBb2oTQ,rA0lcXLEoE0,rw6-eQSQ6Z4,gK26taAWfIE,Ed-9pzGWHm0,lEslH36nVfI,_3bDugavAZc,w_LApJOaVJ4,aHqs8Qn6Kfc,Ed3thYqYSA0,p3PpvhBIgrc,55G25eLMEJw,AdTEGudBGyQ,qH838Z8hQVk,-Oey6V-5qzs,9QH65DiKPIs,-6C5GVT6mO8,CRMgF8vUmMw,J8VdTS4e4FU,7rfsVhAYGhA)
 
 ### [4.5 IO Interface](https://www.youtube.com/watch_videos?video_ids=AF-srn-xO6U,PlohFC8HhoI,t3japIGxD70,AgRWmh1VH3k,oqW8ex4oSrA,q9efCXPcJ6I,iAdlz48Nu5w,kXSmHuz81G4,Wtoui5lTtyE,uMGR0paOAMc,1P4O8bhXeRk,Xem6eg_CUzQ,KAtfgcgSVus)
 
@@ -205,16 +229,36 @@ Missing videos:
 
 ### [9.4 Sequential Circuits](https://www.youtube.com/watch_videos?video_ids=XYmIKTnnShs,o1jTzJKbchw,oSPtcDAEqMg,D0RmzamsHXc,pZs4nc-cqt0,Xip_-MbHUrs,VuCkguHQ2Q4,kjyWRNrkd94,rsdTGqfhhqs,ZkLaJt1muK4,UJnaXk3tHPs,lEiMukH1gSc,ohrA1Hsz-mk,Hi6hQKKaKyk,_TRRft9jKkE,pNclhZwL5kU,Md1nJz201vU)
 
+Missing videos:
+- [MISSING: Non-Redireting URL - https://www.pw.live/study/batches/642346e4febfe80018eb0de9/subjects/6426e5fc924b030018fb09cf/subject-details/all/batch-video-player?scheduleId=64484a0028d5bd0018059d3e&batchSubjectId=6426e5fc924b030018fb09cf]
+
 ## Discrete Mathematics
 
 ### [10.1 Propositional Logic](https://www.youtube.com/watch_videos?video_ids=KRn-GCVh8Hs,Lkd_nl1PEBE,En4i9hB_-ps,_G5tY0--iSU,6lnp-8ad1oI,OgshivVoNyw,9HglXkudeLY,iktRX0n5Bq4,OHu9IFqVekA,rpal6DPlpvE,T-uLHl_TX_Y,ce8Bb8OgrdI,F7-P7Ru5Vbg,pK7OiokxXq0,P1dK2kRHpEM,EKUtPEkffnI,-jMDaYD9XLA,QfE_3svnQIs,ETobHRhsst0,yF2Tuo0ddrI,pOkT-UrPILA,zL2a8Arc2Ds,NaR0z5tVATU,fpU2LKQ6Cf0)
 
+Missing videos:
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/dda0fb12-4ba2-40c1-9b78-71d85f4955f8]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/634a3bbc-8ef7-4cff-b519-5e778e6e48b8]
+
 ### [10.2 Sets Relations and Functions](https://www.youtube.com/watch_videos?video_ids=bfmzhqPPvLo,84sCj_Nb91k,CEpXFgAUGIg,4ZjbFM5XMpc,77-K8vot9Yk,MSJxpQenZAc,GGRwBhlrusE,b1O0e8ifxuI,coseuwM88UI,vVTvvSHFq4Q,Jt-aB4UjWbs,1Hs3_AYWPsQ,OiBidyyXnq8,_D39YJ__J_0,6PwVIt2BFEE,sQG8eGv8BKw,6gEVjJj_GIo,OXWBnMzqLww,xSCI3hc7vxY,PZhM2xuZfzE,rcdt99_-9wc,Xfz9-7tyXFg,p4LD3fxcYuM,76CU4S5zPlQ,_5s23vSlWKQ,hEAEniKpDcc,QezmnguzXbA,yLIER4SRCfk,LsvsuekPqNs,qDP5kX3f2KM)
 
 Missing videos:
+- [MISSING: Non-Redireting URL - https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Yt-KJV185qsaba2r5hqE7XS9-DeEdkAV%2Fview%3Fusp%3Ddrivesdk&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Yt-KJV185qsaba2r5hqE7XS9-DeEdkAV%2Fview%3Fusp%3Ddrivesdk&ifkv=AeZLP9-KvjIY9kf-KWoK9GPuKtZGeJjuVztN2miXbx9LqqEqozDZNKLNP3MKAHvUJmyfqGzZfFYtpA&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1175075215%3A1735804776745095]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/3318cf44-3849-433c-b23c-8328cdb4fd92]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/b43a97d3-bfc7-4ef0-8e97-c216272624ca]
 - [MISSING:10.2 Sets Relations and Functions\IMG20250102130316.jpg]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/d5127954-11a7-49fd-87f3-66edd2836aef]
 
 ### [10.3 Graph Theory](https://www.youtube.com/watch_videos?video_ids=P3sXYjnx2d0,mWWHlEwptoc,6oF2jxXGZaE,XfSj7c4BSck,9CjFyb0L2Wo,m3STJIHkofU,t0_PJE8mPn0,bR0B-HXMvO0,SViVchShjjY,ybl2SM-VthA,NpNBO5hyh-4,bDQGR9gVUEQ,olYksHT_znA,uM27ZbU4JDs,7zYMm_A6YZI,yJWjaBLDcJw,9pKc0ZVieVY,cxM-aSswzEs,ZGM9250w5JE,9pbWei-p2GU,Hg5Hz_TayYc,Abm42fb76nI,7BhaHyZCqE0,HjVYUFxNR_I,xe3nuncMaYM,HoZrMVW6J1A,pNLKvL3UK7U,9dXOCX3OEOc,ZkFlVFgXwuY,5nqjiB0nMQM,EpXjR8AaJCY,-tve4mcEqcc)
 
+Missing videos:
+- [MISSING: Non-Redireting URL - https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1eIzI4-0ehgc0WF85c0uT2DLt1eMX-qke%2Fview%3Fusp%3Ddrivesdk&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1eIzI4-0ehgc0WF85c0uT2DLt1eMX-qke%2Fview%3Fusp%3Ddrivesdk&ifkv=AeZLP9_rCOcuXecD4n1b8A3ZikErvfRXnsowco9gluKl16-DeIGodmqlql3FSW-Lwl3Vhh-FYF_yqw&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1830604657%3A1735804839718569]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/d3312307-5606-458e-ab81-47c9e6dc2b79]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/0970f048-2d56-4f16-bdcb-0c1d06d7722d]
+
 ### [10.4 Combinatorics](https://www.youtube.com/watch_videos?video_ids=Lm1NPXsXZ04,U-fBht2Mzug,PDCRGgYC7bk,lQKn3kTCQ34,RPGKOnl8YBk,iVrh8H5-s-I,vQkPwNgRqw8,hR-7QLqD_bg,0Et9LdK2NRY,e2-5nTuSVS4,S_-7TQFMuFA,wEOCOD5MsnY,Ne2I00A17cQ,ObdwhRk2OpA,xnQYy9axGyo)
+
+Missing videos:
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/89f6c377-07f1-4a14-b479-bc5601ce31f7]
+- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/150ab99c-8b79-43f7-9bf4-be39b1d9fea9]
 

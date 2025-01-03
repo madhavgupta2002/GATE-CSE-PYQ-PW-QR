@@ -20,10 +20,13 @@ def process_txt_file(file_path):
                 line = line.strip()
                 if line.startswith('[MISSING:'):
                     missing_videos.append(line)
-                elif line and line.startswith('https://www.youtube.com'):
-                    video_id = extract_video_id(line)
-                    if video_id:
-                        video_ids.append(video_id)
+                elif line:
+                    if line.startswith('https://www.youtube.com'):
+                        video_id = extract_video_id(line)
+                        if video_id:
+                            video_ids.append(video_id)
+                    else:
+                        missing_videos.append(f"[MISSING: Non-Redireting URL - {line}]")
     except Exception as e:
         print(f"Error processing {file_path}: {str(e)}")
     return video_ids, missing_videos
