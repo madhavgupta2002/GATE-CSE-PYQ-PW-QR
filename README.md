@@ -26,9 +26,9 @@
 
 ## 03. Computer Networks
 
-### [3.1 Basic Concepts and IPv4 Addressing](https://www.youtube.com/watch_videos?video_ids=81wLT6acqdI,-7K_Q-3Duwo,PoQ91xpu4nQ,1_z6QERj7WE,QDQsbfahi08,goTn3xWFyRA,SuNCs2LOPrQ,qnrWRa9NjmI,rBrrp-DMOxw,9ULYAw_E2uQ,vTmbl7a1_8w,p7nz7-mOcM8)
+### [3.1 Basic Concepts and IPv4 Addressing](https://www.youtube.com/watch_videos?video_ids=81wLT6acqdI,-7K_Q-3Duwo,PoQ91xpu4nQ,1_z6QERj7WE,QDQsbfahi08,goTn3xWFyRA,SuNCs2LOPrQ,qnrWRa9NjmI,rBrrp-DMOxw,9ULYAw_E2uQ,vTmbl7a1_8w,p7nz7-mOcM8,bCiShDRd3tk)
 
-### [3.2 Data Link Layer](https://www.youtube.com/watch_videos?video_ids=PvxeSap-ql8,Rg5FZvjJUU0,lL_k8rOsZ8M,63dK613Zcb8,mdoT6sGL2aQ,a7kSc15cRe4,a_HVX-eOBHI,T0I580Ca8-w,ooJH5p27lx0,mqKe4gxC-I4,Uz3PB-S5ibE,IkBJJQRw2S4,KPAHvFVvFa4,toNcR-rpgAU)
+### [3.2 Data Link Layer](https://www.youtube.com/watch_videos?video_ids=qlXoyWY7Qsw,PvxeSap-ql8,Rg5FZvjJUU0,lL_k8rOsZ8M,63dK613Zcb8,mdoT6sGL2aQ,a7kSc15cRe4,a_HVX-eOBHI,T0I580Ca8-w,ooJH5p27lx0,mqKe4gxC-I4,l-XxoX-okWo,DyfI0IctHOg,LhBIZgCqTK0,Uz3PB-S5ibE,IkBJJQRw2S4,KPAHvFVvFa4,toNcR-rpgAU,uf-jQMfIlms,wGBBQF8C3mU,ZTzNAfgn8go,bgJj4kH-HLU)
 
 ### [3.3 MAC Sublayer](https://www.youtube.com/watch_videos?video_ids=AyxNzN4WGkE,mFPZl5CwIiA,ivMX9MniKJk,jiB7XS0-GCw)
 
@@ -134,16 +134,6 @@
 
 Missing videos for 1.5 File Organization and Indexing:
 - [MISSING:1.5 FOI\IMG20250101134632.jpg]
-
-Missing videos for 3.2 Data Link Layer:
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/e9558805-ddae-4d9e-93be-c40c18f4cd1f]
-- [MISSING:3.2 Data-Link-Layer\IMG20250101203810.jpg]
-- [MISSING:3.2 Data-Link-Layer\IMG20250101203813.jpg]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/a10c35e6-f99c-40a4-aae7-b8f860815326]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/e4668efd-ed89-4b64-9cb6-8fa07fe16d1c]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/facae516-bc32-472b-b6cd-66cbe08565bb]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/7c995d59-5b47-4693-884b-9d0adbc2742a]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/11e33eaa-e7e5-4449-a8b3-889819979ef5]
 
 Missing videos for 3.3 MAC Sublayer:
 - [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/ae162c90-818f-42d8-8219-115800472f41]
