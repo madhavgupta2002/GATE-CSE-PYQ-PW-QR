@@ -10,7 +10,7 @@
 
 ### [1.4 Relational Algebra, SQL Queries, TRC](https://www.youtube.com/watch_videos?video_ids=ipaafUHY4XY,lMYgV8PaxDI,583JW9-Wyec,jbqpGDOWfZ4,hYuQx9LOm_0,bOFGN_dOo-U,NrKZXUDgTCg,S1_RsfvOiHI,_LbiE6wL6c0,gxBz46xYC0w,aygWhbVqAMw,gP2PlXb25MQ,tDL-aKcYK3c,OxqqQPjsc5E,no0Vn1PZQwQ,c21ZFQRBFeo,bNPDv1yirxE,TU-rRdQrS9U,gdiyVMO29m0,JeMsurv-Xyk,8a6XESpJrog,YLk714avNV4,NpN2noih2U4,hC0nzXdOPIg,QRYWgeHWWJE,N0H47lWFCQk,mdDSw0W7Z_A,gqY-G-ukgd0,g3gfA6qVnTQ,V1U97LqqXis,rqbMnM2hiFw,kSnPFfKLSSY,yHstSWFkgQY,IfZudHfC7z8,2eADNtsAd-c,iJkPfsADrAg,YZM5-Llf0WI,suVXEy7GPOc,Br5cQz87A0o,GxQfAoitozo,eijtWtJkpi0,mNLnGRe7gKw,3bwPdRjzJZo)
 
-### [1.5 File Organization and Indexing](https://www.youtube.com/watch_videos?video_ids=Q6WuyDNfsL0,yRfcKjXLTkM,lO7AMwtvwcs,FD7sSe5yb1I,Cha2e-qe8D8,wjuQLfmT5gY,rmFqpqUvghI,VxMa0HTn3eM,jxKzJeKylV0,Wow4R86DvXI,o5v5YllFnJg,Q7TNtGnHPwI,QNSUMh1sXMM,RKfHTbIlh_Q,HOlvfx4VCYw)
+### [1.5 File Organization and Indexing](https://www.youtube.com/watch_videos?video_ids=Q6WuyDNfsL0,yRfcKjXLTkM,lO7AMwtvwcs,FD7sSe5yb1I,Cha2e-qe8D8,wjuQLfmT5gY,rmFqpqUvghI,VxMa0HTn3eM,jxKzJeKylV0,Wow4R86DvXI,o5v5YllFnJg,Q7TNtGnHPwI,X_2YM_iHey4,QNSUMh1sXMM,RKfHTbIlh_Q,HOlvfx4VCYw)
 
 ## 02. Operating Systems
 
@@ -131,9 +131,6 @@
 ### [10.3 Graph Theory](https://www.youtube.com/watch_videos?video_ids=P3sXYjnx2d0,mWWHlEwptoc,6oF2jxXGZaE,XfSj7c4BSck,9CjFyb0L2Wo,m3STJIHkofU,t0_PJE8mPn0,bR0B-HXMvO0,SViVchShjjY,ybl2SM-VthA,NpNBO5hyh-4,bDQGR9gVUEQ,olYksHT_znA,uM27ZbU4JDs,7zYMm_A6YZI,yJWjaBLDcJw,9pKc0ZVieVY,cxM-aSswzEs,ZGM9250w5JE,9pbWei-p2GU,Hg5Hz_TayYc,Abm42fb76nI,7BhaHyZCqE0,HjVYUFxNR_I,xe3nuncMaYM,HoZrMVW6J1A,pNLKvL3UK7U,9dXOCX3OEOc,ZkFlVFgXwuY,5nqjiB0nMQM,EpXjR8AaJCY,-tve4mcEqcc)
 
 ### [10.4 Combinatorics](https://www.youtube.com/watch_videos?video_ids=Lm1NPXsXZ04,U-fBht2Mzug,PDCRGgYC7bk,lQKn3kTCQ34,RPGKOnl8YBk,iVrh8H5-s-I,vQkPwNgRqw8,hR-7QLqD_bg,0Et9LdK2NRY,e2-5nTuSVS4,S_-7TQFMuFA,wEOCOD5MsnY,Ne2I00A17cQ,ObdwhRk2OpA,xnQYy9axGyo)
-
-Missing videos for 1.5 File Organization and Indexing:
-- [MISSING:1.5 FOI\IMG20250101134632.jpg]
 
 Missing videos for 4.1 Machine Instruction and Addressing Modes:
 - [MISSING:4.1 Machine Instruction and Addressing Modes\IMG20250101205150.jpg]
