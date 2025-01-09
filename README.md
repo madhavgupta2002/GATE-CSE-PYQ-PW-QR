@@ -32,7 +32,7 @@
 
 ### [3.3 MAC Sublayer](https://www.youtube.com/watch_videos?video_ids=NvegmqrT_tA,AyxNzN4WGkE,gBKgMW3EeCY,tdtTp5FxPvc,41QCGiLmeuA,mFPZl5CwIiA,8lgtTPZenTE,cMe6vhkXn5A,ivMX9MniKJk,jiB7XS0-GCw)
 
-### [3.4 Network Layer](https://www.youtube.com/watch_videos?video_ids=JHRL-Gih0YM,rrniRLBuA5k,bpL_JFc8i40,5F_wD8xYEmo,Yfn_rdyARyc,XeiHBioN78g,6O6Nor0TIH4,kHdI_zdrKoI,0y9b63cqq-0,e02RwU3I6tg,93UoP8rTBmo,wFWWpMSQhjc,mvHoPGm-FlA,_4wTTXZW34Q,EbUtjkheDIg,ZPZ14AYB0X4,8opZNLiNRK0,gI3DiaYKdDw,P5Wl6WWcMmw,HfVEHwDWdu4,JPchzSIOnY8,5ZQPOLgXZDY,RkwHZXfN1t0,h5EOHfKqfyY,ceWlbDhgIgQ,L5raUVJKpsc)
+### [3.4 Network Layer](https://www.youtube.com/watch_videos?video_ids=JHRL-Gih0YM,rrniRLBuA5k,bpL_JFc8i40,5F_wD8xYEmo,x99B_xU7OyI,Yfn_rdyARyc,XeiHBioN78g,6O6Nor0TIH4,kHdI_zdrKoI,0y9b63cqq-0,e02RwU3I6tg,93UoP8rTBmo,Re2eng7YFTE,wFWWpMSQhjc,mvHoPGm-FlA,_4wTTXZW34Q,ypswEc9DLrQ,EbUtjkheDIg,ZPZ14AYB0X4,8opZNLiNRK0,gI3DiaYKdDw,ngyItEGhxyI,VjXG2tuqLEM,P5Wl6WWcMmw,HfVEHwDWdu4,h26ByUxywEI,JPchzSIOnY8,5ZQPOLgXZDY,RkwHZXfN1t0,h5EOHfKqfyY,oFfMOEckzzQ,ceWlbDhgIgQ,L5raUVJKpsc,6pYwcnNkaoc,Q-6oJwDkZW8)
 
 ### [3.5 Transport Layer](https://www.youtube.com/watch_videos?video_ids=psJFLUexpSk,4LbmUDXzz70,BbkKQKtl1Xk,NnsbU771weg,zpI3MED9wmQ,qaxTdnF-uno,MJoNnQKPSNU,qss9x3q2zG4,lk9nhOgKOPc,pIRMUz15UpY,yj2u5Wd_ufU,ec_Zjur59kA,dWNBNxIH_GI,QvGzy87jRFI)
 
@@ -134,17 +134,6 @@
 
 Missing videos for 1.5 File Organization and Indexing:
 - [MISSING:1.5 FOI\IMG20250101134632.jpg]
-
-Missing videos for 3.4 Network Layer:
-- [MISSING:3.4 Network-Layer\IMG20250101204015.jpg]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/701818c5-46b0-4ff1-b6d5-2cf9c7c80d03]
-- [MISSING:3.4 Network-Layer\IMG20250101204058.jpg]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/1f5f470f-f135-4a2a-8ef8-1a6a39d4415d]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/1d3dd14d-f114-49b0-9cb7-7dd564198567]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/d7eea435-c0d7-4463-aeff-2fbfbd372b6f]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/f01e1b35-858d-4822-a2b8-2e01a8dab5c3]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/b50ef761-6954-492e-ad04-3ac97a79b588]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/b18168ed-6239-4add-89f2-916504a3c498]
 
 Missing videos for 3.5 Transport Layer:
 - [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/5299640d-0742-4ddf-abad-2b7424b6a9ba]
