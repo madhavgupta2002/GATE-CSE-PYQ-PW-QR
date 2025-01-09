@@ -30,7 +30,7 @@
 
 ### [3.2 Data Link Layer](https://www.youtube.com/watch_videos?video_ids=qlXoyWY7Qsw,PvxeSap-ql8,Rg5FZvjJUU0,lL_k8rOsZ8M,63dK613Zcb8,mdoT6sGL2aQ,a7kSc15cRe4,a_HVX-eOBHI,T0I580Ca8-w,ooJH5p27lx0,mqKe4gxC-I4,l-XxoX-okWo,DyfI0IctHOg,LhBIZgCqTK0,Uz3PB-S5ibE,IkBJJQRw2S4,KPAHvFVvFa4,toNcR-rpgAU,uf-jQMfIlms,wGBBQF8C3mU,ZTzNAfgn8go,bgJj4kH-HLU)
 
-### [3.3 MAC Sublayer](https://www.youtube.com/watch_videos?video_ids=AyxNzN4WGkE,mFPZl5CwIiA,ivMX9MniKJk,jiB7XS0-GCw)
+### [3.3 MAC Sublayer](https://www.youtube.com/watch_videos?video_ids=NvegmqrT_tA,AyxNzN4WGkE,gBKgMW3EeCY,tdtTp5FxPvc,41QCGiLmeuA,mFPZl5CwIiA,8lgtTPZenTE,cMe6vhkXn5A,ivMX9MniKJk,jiB7XS0-GCw)
 
 ### [3.4 Network Layer](https://www.youtube.com/watch_videos?video_ids=JHRL-Gih0YM,rrniRLBuA5k,bpL_JFc8i40,5F_wD8xYEmo,Yfn_rdyARyc,XeiHBioN78g,6O6Nor0TIH4,kHdI_zdrKoI,0y9b63cqq-0,e02RwU3I6tg,93UoP8rTBmo,wFWWpMSQhjc,mvHoPGm-FlA,_4wTTXZW34Q,EbUtjkheDIg,ZPZ14AYB0X4,8opZNLiNRK0,gI3DiaYKdDw,P5Wl6WWcMmw,HfVEHwDWdu4,JPchzSIOnY8,5ZQPOLgXZDY,RkwHZXfN1t0,h5EOHfKqfyY,ceWlbDhgIgQ,L5raUVJKpsc)
 
@@ -134,14 +134,6 @@
 
 Missing videos for 1.5 File Organization and Indexing:
 - [MISSING:1.5 FOI\IMG20250101134632.jpg]
-
-Missing videos for 3.3 MAC Sublayer:
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/ae162c90-818f-42d8-8219-115800472f41]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/b81b446e-0c73-44f6-8555-12b50bd69a0b]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/bc865632-c456-4ec0-8d21-cda07e66d5e5]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/f49cfebe-f99a-46c2-bc0a-de6d6c623ff1]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/ed76665f-f2af-4e74-a690-14a1960db281]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/37822568-8a08-4405-84d9-9e298c6b6adf]
 
 Missing videos for 3.4 Network Layer:
 - [MISSING:3.4 Network-Layer\IMG20250101204015.jpg]
