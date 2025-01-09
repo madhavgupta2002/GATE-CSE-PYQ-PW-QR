@@ -36,7 +36,7 @@
 
 ### [3.5 Transport Layer](https://www.youtube.com/watch_videos?video_ids=psJFLUexpSk,4LbmUDXzz70,BbkKQKtl1Xk,4EI7DWaG7S0,NnsbU771weg,-n3Lc64gU-M,T29tKF4eaVc,zpI3MED9wmQ,ioULZ3oTUno,dEXiWRr-lkg,7rXCv91ognQ,MdHpPBtnjTQ,ZP5VSZlNtuQ,IunOUSXiVmw,5vK2cG-B-Vw,qaxTdnF-uno,MJoNnQKPSNU,4OzEHU1oyuw,WmiKIQM6pbs,qss9x3q2zG4,lk9nhOgKOPc,0eKO7EKaE8Y,SZwex8tomKM,pIRMUz15UpY,yj2u5Wd_ufU,ec_Zjur59kA,dWNBNxIH_GI,_S6e451MDTg,QvGzy87jRFI)
 
-### [3.6 Application Layer](https://www.youtube.com/watch_videos?video_ids=7GfdKdRXocQ,yRlD7Ow0I8Q,Q9rW4LaSMc8,DcVHn2XbdgM,jhrYLfYbFxw,IoBCAO6FOio,TcJU5eO-iH8,c2WvE-fFx-c,4FN6EaO7oa0,QYdia5XjbIo)
+### [3.6 Application Layer](https://www.youtube.com/watch_videos?video_ids=7GfdKdRXocQ,5Aa4cmKa2W8,av0s4qJetd4,yRlD7Ow0I8Q,Q9rW4LaSMc8,DcVHn2XbdgM,jhrYLfYbFxw,IoBCAO6FOio,TcJU5eO-iH8,c2WvE-fFx-c,4FN6EaO7oa0,QYdia5XjbIo,GXTNkyurTmY,-LPPPq-Ld4Q)
 
 ## 04. Computer Organization and Architecture
 
@@ -134,12 +134,6 @@
 
 Missing videos for 1.5 File Organization and Indexing:
 - [MISSING:1.5 FOI\IMG20250101134632.jpg]
-
-Missing videos for 3.6 Application Layer:
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/eb27e41a-b7b9-4f5a-9582-84adea976f35]
-- [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/afb423bc-7d38-4399-bb9a-93f86f9c49bc]
-- [MISSING:3.6 Application-Layer\IMG20250101204509.jpg]
-- [MISSING:3.6 Application-Layer\IMG20250101204513.jpg]
 
 Missing videos for 4.1 Machine Instruction and Addressing Modes:
 - [MISSING:4.1 Machine Instruction and Addressing Modes\IMG20250101205150.jpg]
