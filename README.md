@@ -40,15 +40,15 @@
 
 ## 04. Computer Organization and Architecture
 
-### [4.1 Machine Instruction and Addressing Modes](https://www.youtube.com/watch_videos?video_ids=nM0HFG8ful4,127aalZRCgU,Oqx1J6_Xnxg,3ltjnrp1tQE,AjklU1Y2HGg,O33Ez7XT0lE,J-AZY5L4uEc,CyKXdFRkPlM,oBmRXIfcAdE,OlhkhbVdwD8,sOcOvEyVbxE,1UjA_lOFMtQ,CRhOeYkFGFw,SGw7ArtVch8,QfB-xMFjf-I,slgUiugG41A,qUIwQ_B4ML8,OpJVMk7vul8,ZgpdK3VlNB8,zftAK3ldWto,kTWQ8k3O1-A,UGY0bxueQa8,qpjDHoPI6GU)
+### [4.1 Machine Instruction and Addressing Modes](https://www.youtube.com/watch_videos?video_ids=nM0HFG8ful4,127aalZRCgU,Oqx1J6_Xnxg,3ltjnrp1tQE,AjklU1Y2HGg,O33Ez7XT0lE,J-AZY5L4uEc,CyKXdFRkPlM,oBmRXIfcAdE,OlhkhbVdwD8,sOcOvEyVbxE,1UjA_lOFMtQ,CRhOeYkFGFw,SGw7ArtVch8,-qWKLtyy47w,QfB-xMFjf-I,slgUiugG41A,qUIwQ_B4ML8,OpJVMk7vul8,ZgpdK3VlNB8,zftAK3ldWto,kTWQ8k3O1-A,UGY0bxueQa8,dkqBJRMQQ6k,Z0EHEfz_-X0,qpjDHoPI6GU)
 
 ### [4.2 ALU and Control Unit](https://www.youtube.com/watch_videos?video_ids=IO8fGQGZtlc,ZRoG-PadZkU,Op9ucDojzJU,PYGlMJ4iJPE,I5m1xDEb910)
 
-### [4.3 Instruction Pipelining](https://www.youtube.com/watch_videos?video_ids=CWFZRrrqKj8,WzgLsUWWovo,xaArEZLQIJA,Y9cY1kGAmjM,4sbL5gvQd3U,3L4W_EuBL54,oVbnGid5OT8,Q0EUBrHNOxI,XOHfC5lDP3w,azHYGsHGKuE,bBtrCJJGK9M,n2Lm8p7Nk0k,XgXxENYtUxw,1Qr5_cqhz54,VxpF7UHkvB8,_MYlEqLD3_o,pZg8gtvmVlM,znduZieKYio,Y1fYtG5aXRM,SUwwF9cxlbs,DN53767sEvk,fFdR5BEgOBM,GjRmrONEFM0,IYsGIRV0sJo,QJC1FijzKmw,5hXlwmoe7zI,JzCFNM7jwyU,2pJh-1cNk1A,2Osl4_CwREE,rbngV33hN-g)
+### [4.3 Instruction Pipelining](https://www.youtube.com/watch_videos?video_ids=CWFZRrrqKj8,WzgLsUWWovo,xaArEZLQIJA,Y9cY1kGAmjM,4sbL5gvQd3U,3L4W_EuBL54,oVbnGid5OT8,Q0EUBrHNOxI,XOHfC5lDP3w,azHYGsHGKuE,bBtrCJJGK9M,n2Lm8p7Nk0k,XgXxENYtUxw,uNZg9GgCfLE,1Qr5_cqhz54,VxpF7UHkvB8,_MYlEqLD3_o,pZg8gtvmVlM,znduZieKYio,Y1fYtG5aXRM,SUwwF9cxlbs,DN53767sEvk,fFdR5BEgOBM,GjRmrONEFM0,IYsGIRV0sJo,QJC1FijzKmw,5hXlwmoe7zI,JzCFNM7jwyU,2pJh-1cNk1A,LnHGLu2ys0E,2Osl4_CwREE,rbngV33hN-g)
 
 ### [4.4 Memory Hierarchy](https://www.youtube.com/watch_videos?video_ids=ZiOxrpXF7zk,nR3Eljc7XRY,mBM0nSEnjqE,m7GhPUQWxUQ,QaSgmYWXBn0,ZK32GpZLj3U,RRNxjrfgNGA,fSfcJn7rQiI,oAmC-E6dxq8,FqfFBe9S6zU,PRup1DWuSNI,6ic5Qi75h9U,BoF-QDKu6PA,7_QPkLvzZh0,yxRCCF45r4g,VP7KJKteRtw,G2mGwwwAfHg,bgQiMjl0ppo,MxLaVdXHDxo,LnAMdCMZIRc,JX3iN7AvFlo,E8WeUezsvHo,i6MsS2JGzNM,ZmgHPIXnJ6s,DVD24KrP6X4,qMpLzBB3jNA,HEf6wvUoxkU,z1FwxEev5gc,RCZ0gBb2oTQ,rA0lcXLEoE0,rw6-eQSQ6Z4,gK26taAWfIE,Ed-9pzGWHm0,lEslH36nVfI,_3bDugavAZc,w_LApJOaVJ4,aHqs8Qn6Kfc,Ed3thYqYSA0,p3PpvhBIgrc,55G25eLMEJw,AdTEGudBGyQ,qH838Z8hQVk,-Oey6V-5qzs,9QH65DiKPIs,-6C5GVT6mO8,CRMgF8vUmMw,J8VdTS4e4FU,7rfsVhAYGhA)
 
-### [4.5 IO Interface](https://www.youtube.com/watch_videos?video_ids=AF-srn-xO6U,PlohFC8HhoI,t3japIGxD70,AgRWmh1VH3k,oqW8ex4oSrA,q9efCXPcJ6I,iAdlz48Nu5w,kXSmHuz81G4,Wtoui5lTtyE,uMGR0paOAMc,1P4O8bhXeRk,Xem6eg_CUzQ,KAtfgcgSVus)
+### [4.5 IO Interface](https://www.youtube.com/watch_videos?video_ids=AF-srn-xO6U,PlohFC8HhoI,t3japIGxD70,AgRWmh1VH3k,oqW8ex4oSrA,-juY7yEkiJo,Nsnh_BKoI7k,q9efCXPcJ6I,iAdlz48Nu5w,kXSmHuz81G4,Wtoui5lTtyE,qMo0NzjUfWQ,uMGR0paOAMc,1P4O8bhXeRk,Xem6eg_CUzQ,Pz0JdC42JL4,KAtfgcgSVus)
 
 ## 05. Programming and Data Structures
 
@@ -131,22 +131,6 @@
 ### [10.3 Graph Theory](https://www.youtube.com/watch_videos?video_ids=P3sXYjnx2d0,mWWHlEwptoc,6oF2jxXGZaE,XfSj7c4BSck,9CjFyb0L2Wo,m3STJIHkofU,t0_PJE8mPn0,bR0B-HXMvO0,SViVchShjjY,ybl2SM-VthA,NpNBO5hyh-4,bDQGR9gVUEQ,olYksHT_znA,uM27ZbU4JDs,7zYMm_A6YZI,yJWjaBLDcJw,9pKc0ZVieVY,cxM-aSswzEs,ZGM9250w5JE,9pbWei-p2GU,Hg5Hz_TayYc,Abm42fb76nI,7BhaHyZCqE0,HjVYUFxNR_I,xe3nuncMaYM,HoZrMVW6J1A,pNLKvL3UK7U,9dXOCX3OEOc,ZkFlVFgXwuY,5nqjiB0nMQM,EpXjR8AaJCY,-tve4mcEqcc)
 
 ### [10.4 Combinatorics](https://www.youtube.com/watch_videos?video_ids=Lm1NPXsXZ04,U-fBht2Mzug,PDCRGgYC7bk,lQKn3kTCQ34,RPGKOnl8YBk,iVrh8H5-s-I,vQkPwNgRqw8,hR-7QLqD_bg,0Et9LdK2NRY,e2-5nTuSVS4,S_-7TQFMuFA,wEOCOD5MsnY,Ne2I00A17cQ,ObdwhRk2OpA,xnQYy9axGyo)
-
-Missing videos for 4.1 Machine Instruction and Addressing Modes:
-- [MISSING:4.1 Machine Instruction and Addressing Modes\IMG20250101205150.jpg]
-- [MISSING:4.1 Machine Instruction and Addressing Modes\IMG20250101205219.jpg]
-- [MISSING:4.1 Machine Instruction and Addressing Modes\IMG20250101205221.jpg]
-
-Missing videos for 4.3 Instruction Pipelining:
-- [MISSING:4.3 Instruction Pipelining\IMG20250101205409.jpg]
-- [MISSING:4.3 Instruction Pipelining\IMG20250101205430.jpg]
-- [MISSING:4.3 Instruction Pipelining\IMG20250101205532.jpg]
-
-Missing videos for 4.5 IO Interface:
-- [MISSING:4.5 IO Interface\IMG20250101210220.jpg]
-- [MISSING:4.5 IO Interface\IMG20250101210223.jpg]
-- [MISSING:4.5 IO Interface\IMG20250101210240.jpg]
-- [MISSING:4.5 IO Interface\IMG20250101210255.jpg]
 
 Missing videos for 5.1 Data Types and Operators:
 - [MISSING:5.1 Data Types and Operators\IMG20250102120559.jpg]
