@@ -70,17 +70,17 @@
 
 ## 06. Algorithms
 
-### [6.1 Asymptotic Analysis](https://www.youtube.com/watch_videos?video_ids=SVYwkH-oC_4,XFWyjI58r3I,cPJ2PhO5Tdg,LOCvRRA_rUM,UbMzLC6CNeM,bcgRvwazkQ4,-hjKo2zQx4I,6HbHxw65jhY,anpxQsQLgVY,ICSJYTccr1Q,Yml2OmHCLgQ,rlxvnoWJy6Y,D8HFxNT27tM,8G5MftvWxzo,sz3SVpoq97c,6A1lB7o5ZmQ,5dNmfWUeNFs,AFCuqhGpRbo,O0fXvzACjQY,tZXWks6KJLo,cDt4f0hlfqA,2YSJlUJ5QeI,B9uUl6PJykQ,Yn1Gsg5kjk0,BjzQqFSG3cY)
+### [6.1 Asymptotic Analysis](https://www.youtube.com/watch_videos?video_ids=SVYwkH-oC_4,XFWyjI58r3I,cPJ2PhO5Tdg,LOCvRRA_rUM,UbMzLC6CNeM,bcgRvwazkQ4,-hjKo2zQx4I,6HbHxw65jhY,anpxQsQLgVY,ICSJYTccr1Q,Yml2OmHCLgQ,rlxvnoWJy6Y,D8HFxNT27tM,8G5MftvWxzo,sz3SVpoq97c,6A1lB7o5ZmQ,5dNmfWUeNFs,AFCuqhGpRbo,O0fXvzACjQY,tZXWks6KJLo,H8FfE5tmRrE,cDt4f0hlfqA,2YSJlUJ5QeI,B9uUl6PJykQ,Yn1Gsg5kjk0,BjzQqFSG3cY)
 
 ### [6.2 Divide and Conquer](https://www.youtube.com/watch_videos?video_ids=AVRt1QzLcKU,Y5dM7bGgofk,APzElozQmLY,IRTu-ca0g6k,utO4ZQ_joPo,bUrayKx9Q1M,HzTQnaaI2gs,mfz1drgBaoc,py1WMDhdzUQ,jn4wLvIzLtc,FjXW3uAAAdo,kpR77noxSRU,4TeLfKUMQoA,0LoOe68d3w0,1VsmyU04J-k,MGNqx1my7R4,NedojSzv4-s,hJZbeQu2rw8,mjXSYmAw6bY,KKiNKZlqHQQ,YK89_QDEE8E,gbsXLJoxhNc,mUOilEwdh2E,izR8DGJjF7I,izR8DGJjF7I,FBkN0IfNQZw,CRNFo98ApuM,o4Kgiy37daE,jlGRu4ZFYA0,9OWxeFR_3E0,4WQBhxmQFl8,ISvAC6O89rQ,_MkTKpRsPvA)
 
-### [6.3 Greedy Techniques](https://www.youtube.com/watch_videos?video_ids=NPmFJ-n_HVE,20G55VeufXI,T99s7K3oQl4,QzyOEEGn2zs,VNx5BlTsa5w,miqXrIi3Y8Y,VrkLs2iVe2I,0e2ilaoYkIU,2Pyee94MGo0,Z4JbsiHkcMs,-lJ6JYObvK8,GwG7sqmAOmg,6DBrNCVBoWo)
+### [6.3 Greedy Techniques](https://www.youtube.com/watch_videos?video_ids=NPmFJ-n_HVE,20G55VeufXI,T99s7K3oQl4,-J5jnvNISPE,QzyOEEGn2zs,VNx5BlTsa5w,miqXrIi3Y8Y,VrkLs2iVe2I,0e2ilaoYkIU,2Pyee94MGo0,Z4JbsiHkcMs,-lJ6JYObvK8,GwG7sqmAOmg,6DBrNCVBoWo)
 
-### [6.4 Graph Based Algorithm](https://www.youtube.com/watch_videos?video_ids=vo27s_cHcpo,3Iub9Rcdzlw,ti5wbveE7Os,zU3WM_5ZTg8,XTezt7rMkQY,NEAorl_qdjM,zAGYvJBM3WU,r8PxyOkkf6Y,bIkqhUG7FnI,6gqLDGOU9-k,j7DoaXPTjAc,ID30qjZlc_4,iNvW3uCtIVs,Wruc9edzp-M,JUM-nK3I42o,2lpHnQvx6cA,Y8Vm4PbuS24,2vSOOjqlBDY,pEurWclE0BM,w42Elfa0Ybg,aYNE0XjjymM,W-9teXw2118,cnXpYOvkN-A,C6xLKa-3QRo)
+### [6.4 Graph Based Algorithm](https://www.youtube.com/watch_videos?video_ids=vo27s_cHcpo,WdqPn1Kt_Dc,3Iub9Rcdzlw,ti5wbveE7Os,zU3WM_5ZTg8,XTezt7rMkQY,NEAorl_qdjM,zAGYvJBM3WU,r8PxyOkkf6Y,bIkqhUG7FnI,6gqLDGOU9-k,j7DoaXPTjAc,ID30qjZlc_4,iNvW3uCtIVs,Wruc9edzp-M,JUM-nK3I42o,2lpHnQvx6cA,Y8Vm4PbuS24,2vSOOjqlBDY,pEurWclE0BM,w42Elfa0Ybg,aYNE0XjjymM,W-9teXw2118,cnXpYOvkN-A,C6xLKa-3QRo)
 
 ### [6.5 Dynamic Programming](https://www.youtube.com/watch_videos?video_ids=S_4gxNiDvWI,vI_GaVK6Zx4,IFsPQng-cC0,k4F6E7ORdPo,6K-7D_2vN6E,xbsG0d_HLnU,W10wp2TA-_Y,RnOun3aUMdY,0UFWRJ26oXg,3lhHHA6mkos,Z8musx3vE5o,h71A0ZeICu0,x21KcZBNfY4,--XuW6zN080,U5RV-3_Mw2s,rCLndPyz3pM,kIfGaAAcrCU)
 
-### [6.6 Miscellaneous Topics](https://www.youtube.com/watch_videos?video_ids=XIeuSe-UTW4,uvSfYNb26YU,Nx70AR1PG6c,SXOvE7nOWfc,uvSfYNb26YU,oKlUMmjCxR0,dWgz-4Ke5aU,o23wYQrUmtM,k_h42yufEyU,jw0IbfaTWpk,IUpjXHXq04g,c0yAsACU38M,cseC6tH25II,U3hLPqbelO8,pCGwzbJ6MmM,LAGZbs4w1BI,enyPtGjr7sI,KnoLSHXdJJI,3CdJ1J6h-HM,Phde_REL5l4,lxaF4A7QApY)
+### [6.6 Miscellaneous Topics](https://www.youtube.com/watch_videos?video_ids=XIeuSe-UTW4,uvSfYNb26YU,Nx70AR1PG6c,SXOvE7nOWfc,uvSfYNb26YU,oKlUMmjCxR0,dWgz-4Ke5aU,o23wYQrUmtM,k_h42yufEyU,WH4vpCqgJQc,jw0IbfaTWpk,IUpjXHXq04g,c0yAsACU38M,cseC6tH25II,U3hLPqbelO8,pCGwzbJ6MmM,LAGZbs4w1BI,enyPtGjr7sI,KnoLSHXdJJI,3CdJ1J6h-HM,Phde_REL5l4,lxaF4A7QApY)
 
 ## 07. Compiler Design
 
@@ -131,18 +131,6 @@
 ### [10.3 Graph Theory](https://www.youtube.com/watch_videos?video_ids=P3sXYjnx2d0,mWWHlEwptoc,6oF2jxXGZaE,XfSj7c4BSck,9CjFyb0L2Wo,m3STJIHkofU,t0_PJE8mPn0,bR0B-HXMvO0,SViVchShjjY,ybl2SM-VthA,NpNBO5hyh-4,bDQGR9gVUEQ,olYksHT_znA,uM27ZbU4JDs,7zYMm_A6YZI,yJWjaBLDcJw,9pKc0ZVieVY,cxM-aSswzEs,ZGM9250w5JE,9pbWei-p2GU,Hg5Hz_TayYc,Abm42fb76nI,7BhaHyZCqE0,HjVYUFxNR_I,xe3nuncMaYM,HoZrMVW6J1A,pNLKvL3UK7U,9dXOCX3OEOc,ZkFlVFgXwuY,5nqjiB0nMQM,EpXjR8AaJCY,-tve4mcEqcc)
 
 ### [10.4 Combinatorics](https://www.youtube.com/watch_videos?video_ids=Lm1NPXsXZ04,U-fBht2Mzug,PDCRGgYC7bk,lQKn3kTCQ34,RPGKOnl8YBk,iVrh8H5-s-I,vQkPwNgRqw8,hR-7QLqD_bg,0Et9LdK2NRY,e2-5nTuSVS4,S_-7TQFMuFA,wEOCOD5MsnY,Ne2I00A17cQ,ObdwhRk2OpA,xnQYy9axGyo)
-
-Missing videos for 6.1 Asymptotic Analysis:
-- [MISSING:6.1 Asymptotic Analysis\IMG20250102122219.jpg]
-
-Missing videos for 6.3 Greedy Techniques:
-- [MISSING:6.3 Greedy Techniques\IMG20250102122521.jpg]
-
-Missing videos for 6.4 Graph Based Algorithm:
-- [MISSING:6.4 Graph Based Algorithm\IMG20250102122608.jpg]
-
-Missing videos for 6.6 Miscellaneous Topics:
-- [MISSING:6.6 Miscellaneous Topics\IMG20250102122915.jpg]
 
 Missing videos for 9.4 Sequential Circuits:
 - [MISSING: Non-Redireting URL - https://www.pw.live/study/batches/642346e4febfe80018eb0de9/subjects/6426e5fc924b030018fb09cf/subject-details/all/batch-video-player?scheduleId=64484a0028d5bd0018059d3e&batchSubjectId=6426e5fc924b030018fb09cf]
