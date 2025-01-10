@@ -34,7 +34,7 @@
 
 ### [3.4 Network Layer](https://www.youtube.com/watch_videos?video_ids=JHRL-Gih0YM,rrniRLBuA5k,bpL_JFc8i40,5F_wD8xYEmo,x99B_xU7OyI,Yfn_rdyARyc,XeiHBioN78g,6O6Nor0TIH4,kHdI_zdrKoI,0y9b63cqq-0,e02RwU3I6tg,93UoP8rTBmo,Re2eng7YFTE,wFWWpMSQhjc,mvHoPGm-FlA,_4wTTXZW34Q,ypswEc9DLrQ,EbUtjkheDIg,ZPZ14AYB0X4,8opZNLiNRK0,gI3DiaYKdDw,ngyItEGhxyI,VjXG2tuqLEM,P5Wl6WWcMmw,HfVEHwDWdu4,h26ByUxywEI,JPchzSIOnY8,5ZQPOLgXZDY,RkwHZXfN1t0,h5EOHfKqfyY,oFfMOEckzzQ,ceWlbDhgIgQ,L5raUVJKpsc,6pYwcnNkaoc,Q-6oJwDkZW8)
 
-### [3.5 Transport Layer](https://www.youtube.com/watch_videos?video_ids=psJFLUexpSk,4LbmUDXzz70,BbkKQKtl1Xk,4EI7DWaG7S0,NnsbU771weg,-n3Lc64gU-M,T29tKF4eaVc,zpI3MED9wmQ,ioULZ3oTUno,dEXiWRr-lkg,7rXCv91ognQ,MdHpPBtnjTQ,ZP5VSZlNtuQ,IunOUSXiVmw,5vK2cG-B-Vw,qaxTdnF-uno,MJoNnQKPSNU,4OzEHU1oyuw,WmiKIQM6pbs,qss9x3q2zG4,lk9nhOgKOPc,0eKO7EKaE8Y,SZwex8tomKM,pIRMUz15UpY,yj2u5Wd_ufU,ec_Zjur59kA,dWNBNxIH_GI,_S6e451MDTg,QvGzy87jRFI)
+### [3.5 Transport Layer](https://www.youtube.com/watch_videos?video_ids=psJFLUexpSk,4LbmUDXzz70,BbkKQKtl1Xk,4EI7DWaG7S0,NnsbU771weg,-n3Lc64gU-M,T29tKF4eaVc,zpI3MED9wmQ,ioULZ3oTUno,AAf38Nk26W8,7rXCv91ognQ,MdHpPBtnjTQ,ZP5VSZlNtuQ,IunOUSXiVmw,5vK2cG-B-Vw,qaxTdnF-uno,MJoNnQKPSNU,4OzEHU1oyuw,WmiKIQM6pbs,qss9x3q2zG4,lk9nhOgKOPc,0eKO7EKaE8Y,SZwex8tomKM,pIRMUz15UpY,yj2u5Wd_ufU,ec_Zjur59kA,dWNBNxIH_GI,_S6e451MDTg,QvGzy87jRFI)
 
 ### [3.6 Application Layer](https://www.youtube.com/watch_videos?video_ids=7GfdKdRXocQ,5Aa4cmKa2W8,av0s4qJetd4,yRlD7Ow0I8Q,Q9rW4LaSMc8,DcVHn2XbdgM,jhrYLfYbFxw,IoBCAO6FOio,TcJU5eO-iH8,c2WvE-fFx-c,4FN6EaO7oa0,QYdia5XjbIo,GXTNkyurTmY,-LPPPq-Ld4Q)
 
@@ -52,19 +52,19 @@
 
 ## 05. Programming and Data Structures
 
-### [5.1 Data Types and Operators](https://www.youtube.com/watch_videos?video_ids=WeWgo_qhj-A,EpK43J_BD4Q)
+### [5.1 Data Types and Operators](https://www.youtube.com/watch_videos?video_ids=6Bq7tcUs9K4,WeWgo_qhj-A,EpK43J_BD4Q)
 
-### [5.2 Control Flow Statements](https://www.youtube.com/watch_videos?video_ids=3M7ji27AvZA,kkWGpD9OEuI,7cM4q1IXXJM,BTFPPBGw5DU,uhJAgKjYIAg,xMmZku2k4jw,98Sm5NSukeY,JsU29Td1zFk,cPxAgG4i7xs,Tf1R69xLSHY,iweXayf7M-U,RrFw4HxOxxk)
+### [5.2 Control Flow Statements](https://www.youtube.com/watch_videos?video_ids=3M7ji27AvZA,kkWGpD9OEuI,7cM4q1IXXJM,BTFPPBGw5DU,TM8BQHGH-YA,uhJAgKjYIAg,xMmZku2k4jw,98Sm5NSukeY,JsU29Td1zFk,cPxAgG4i7xs,Tf1R69xLSHY,iweXayf7M-U,RrFw4HxOxxk,iX7S2rujPYQ)
 
-### [5.3 Functions and Storage Classes](https://www.youtube.com/watch_videos?video_ids=HXZZXaR-6Xk,K-c-ZwAQrX4,jUI-sHklMB8,DSnJ_G8amhE,kwHyisbNWgs,RCyxSRHPBVM,3dhGInzBvs4,AdW0jhti3eM,DVB8gNrJ_eU,dAM_Gh-yXCA,S7jhh9vblJA,Dg9kc8M8PC0,f8lMNHZo6Uk,CO1lvkCuUmk,iJzSLfqOiUg,5oSlm440wyU,YgT1AxOVEZA,tYM7NN6Hw1c,bw4beBWsXxU,88KzCKUxpg4,xTvpJePx3Ks,xoYdA1hq2wQ,boPis-PIro4,zFFIv248h9s,nsXGd72jv4E,rfm39yy-Jvc)
+### [5.3 Functions and Storage Classes](https://www.youtube.com/watch_videos?video_ids=HXZZXaR-6Xk,pHKSTvmEFB4,K-c-ZwAQrX4,jUI-sHklMB8,DSnJ_G8amhE,kwHyisbNWgs,OoXS2lEq6FU,RCyxSRHPBVM,3dhGInzBvs4,AdW0jhti3eM,DVB8gNrJ_eU,dAM_Gh-yXCA,S7jhh9vblJA,Dg9kc8M8PC0,f8lMNHZo6Uk,CO1lvkCuUmk,iJzSLfqOiUg,5oSlm440wyU,YgT1AxOVEZA,tYM7NN6Hw1c,bw4beBWsXxU,88KzCKUxpg4,xTvpJePx3Ks,xoYdA1hq2wQ,boPis-PIro4,zFFIv248h9s,nsXGd72jv4E,rfm39yy-Jvc)
 
 ### [5.4 Pointers and Strings](https://www.youtube.com/watch_videos?video_ids=_N16pyDUH9g,LyPkqVnwfgo,eGZsxDWBtMA,TWHnIclBNZc,u1vR2X1KDK4,ylSoOLDO7z8,mTxiztzGeEw,P_eARYSv8rk,K42aVgJRoIE,IKp3O9Ly0DI,WtuQMD8MXO8,GnO4ORCgVSs,WZ1Evyk2Wy8,nJFuqcvpuFc,AO4qDgdRpZc,quUs6rfs7kE,uJpFLA3KsX8,SmFKQlCGK9M,gyOcREowFbw,ksn_85BTp1E,AgLoV6Z4Xxs,fifkUTp-a7s,_mUscWRQLHU,3cuiIHATHC8,Nk9h3EvJVg8,UxNcnyeQcQg,--_5e9XcQ08,P2c71hUDkCY,Zf_UJSnfN7Y,i_4fBe80_Oo,-RKps6f5890)
 
-### [5.5 Arrays and Linked List](https://www.youtube.com/watch_videos?video_ids=fvLF_CzQP3c,cp2ah3Cb6jg,IFOAopUlsuE,ikOXCD9H_78,Y7bv26toI_Q,uggkSHwGKqE,g0Ni_mdHzE4,FF55UlIcwbU,Nn96nXaWRIA,AVJM46KgGwo,pImXhis8njU)
+### [5.5 Arrays and Linked List](https://www.youtube.com/watch_videos?video_ids=fvLF_CzQP3c,cp2ah3Cb6jg,IFOAopUlsuE,ikOXCD9H_78,Y7bv26toI_Q,uggkSHwGKqE,g0Ni_mdHzE4,FF55UlIcwbU,PJv0RMDfF-Q,Nn96nXaWRIA,AVJM46KgGwo,pImXhis8njU,RxP8JbOWpsY)
 
-### [5.6 Stacks and Queues](https://www.youtube.com/watch_videos?video_ids=WQyIdpzoE3A,vMpHGcxRraQ,5KndAZ_72PA,07xxC6U-RE8,BW7gCBKDVVE,GKECHnSX_Qc,s3gcFoYtO1k,iSHLPeJw9PY,uvUuJB7KEa8,6_UEM8QH3zU,CLMGNFtQ3Vg,c7dDfulMhLw)
+### [5.6 Stacks and Queues](https://www.youtube.com/watch_videos?video_ids=nbebWIFV9cA,WQyIdpzoE3A,vMpHGcxRraQ,Ji8LPZUBRK8,5KndAZ_72PA,07xxC6U-RE8,BW7gCBKDVVE,GKECHnSX_Qc,s3gcFoYtO1k,iSHLPeJw9PY,uvUuJB7KEa8,6_UEM8QH3zU,CLMGNFtQ3Vg,c7dDfulMhLw)
 
-### [5.7 Trees](https://www.youtube.com/watch_videos?video_ids=-K2uGhdXJ4I,RDwzNprEDck,7EFKzkNinpE,VpGi9EyQpU4,eylQsFddK1c,-VbviJe_93M,6x-ZrTNTSt4,8NAvwekbJjc,FZb7JuFfgXo,qlysI-ZMCwI,msBR2wo4nVo,8wkW93WkGXA,Z72cLH0m7F4,BBhKWULcHX8,_YvzzLLZObY,0b7kUnnXUjg,cTS1WsrVf6w,kj9Qq1gnpYg,-iJ8vVI5-b4,DLTMOn_qkeA,yACxYDS4Lj0,cEsf1npcdbw,8DhEWcZ8hBY,MhK60_rfBwA,qpEMbw2d55E,Y0LEPDWD3as,lALlnXFNv2s,0uy46KCHuz4,AGFG5__Tnxg,5Fsu0dZ1ULQ,xdFKcVQFJE8,D5Xd9FO5guI,kCrLbOeax0c,G-RMLS3zwug,QQ6pJdsiVwM,tK5MaHRAdQc,cStZaU28xbg,c-eOp4gLOp4,UL6vmV2ATow,lPpS4RBKzZI,QJFh-0td2_Q)
+### [5.7 Trees](https://www.youtube.com/watch_videos?video_ids=-K2uGhdXJ4I,RDwzNprEDck,7EFKzkNinpE,VpGi9EyQpU4,eylQsFddK1c,-VbviJe_93M,6x-ZrTNTSt4,8NAvwekbJjc,FZb7JuFfgXo,qlysI-ZMCwI,msBR2wo4nVo,8wkW93WkGXA,Z72cLH0m7F4,BBhKWULcHX8,_YvzzLLZObY,Y6CkWZeGX40,0b7kUnnXUjg,cTS1WsrVf6w,kj9Qq1gnpYg,-iJ8vVI5-b4,DLTMOn_qkeA,yACxYDS4Lj0,cEsf1npcdbw,8DhEWcZ8hBY,7RlRZ-GFGzs,gIPokM2G-Xs,MhK60_rfBwA,qpEMbw2d55E,Y0LEPDWD3as,lALlnXFNv2s,0uy46KCHuz4,AGFG5__Tnxg,5Fsu0dZ1ULQ,xdFKcVQFJE8,D5Xd9FO5guI,kCrLbOeax0c,G-RMLS3zwug,QQ6pJdsiVwM,tK5MaHRAdQc,cStZaU28xbg,c-eOp4gLOp4,UL6vmV2ATow,lPpS4RBKzZI,QJFh-0td2_Q)
 
 ### [5.8 Hashing](https://www.youtube.com/watch_videos?video_ids=so-W10eZKkg,Pk3WfL8dCiA,Xg9j_LOZmCU,2UO19Dc3s1k,0Kpo3kEOT_c,8bpjEwT8YY8,yIwbaF8xsv8,T9FRvDMLwnA,wp2gNvYhW7Y,1etEm30foOM,LU3HWorJnG4,MB2eYfMbAQE)
 
@@ -131,30 +131,6 @@
 ### [10.3 Graph Theory](https://www.youtube.com/watch_videos?video_ids=P3sXYjnx2d0,mWWHlEwptoc,6oF2jxXGZaE,XfSj7c4BSck,9CjFyb0L2Wo,m3STJIHkofU,t0_PJE8mPn0,bR0B-HXMvO0,SViVchShjjY,ybl2SM-VthA,NpNBO5hyh-4,bDQGR9gVUEQ,olYksHT_znA,uM27ZbU4JDs,7zYMm_A6YZI,yJWjaBLDcJw,9pKc0ZVieVY,cxM-aSswzEs,ZGM9250w5JE,9pbWei-p2GU,Hg5Hz_TayYc,Abm42fb76nI,7BhaHyZCqE0,HjVYUFxNR_I,xe3nuncMaYM,HoZrMVW6J1A,pNLKvL3UK7U,9dXOCX3OEOc,ZkFlVFgXwuY,5nqjiB0nMQM,EpXjR8AaJCY,-tve4mcEqcc)
 
 ### [10.4 Combinatorics](https://www.youtube.com/watch_videos?video_ids=Lm1NPXsXZ04,U-fBht2Mzug,PDCRGgYC7bk,lQKn3kTCQ34,RPGKOnl8YBk,iVrh8H5-s-I,vQkPwNgRqw8,hR-7QLqD_bg,0Et9LdK2NRY,e2-5nTuSVS4,S_-7TQFMuFA,wEOCOD5MsnY,Ne2I00A17cQ,ObdwhRk2OpA,xnQYy9axGyo)
-
-Missing videos for 5.1 Data Types and Operators:
-- [MISSING:5.1 Data Types and Operators\IMG20250102120559.jpg]
-
-Missing videos for 5.2 Control Flow Statements:
-- [MISSING:5.2 Control Flow Statements\IMG20250102120640.jpg]
-- [MISSING:5.2 Control Flow Statements\IMG20250102120732.jpg]
-
-Missing videos for 5.3 Functions and Storage Classes:
-- [MISSING:5.3 Functions and Storage Classes\IMG20250102120802.jpg]
-- [MISSING:5.3 Functions and Storage Classes\IMG20250102120826.jpg]
-
-Missing videos for 5.5 Arrays and Linked List:
-- [MISSING:5.5 Arrays and Linked List\IMG20250102121350.jpg]
-- [MISSING:5.5 Arrays and Linked List\IMG20250102121412.jpg]
-
-Missing videos for 5.6 Stacks and Queues:
-- [MISSING:5.6 Stacks and Queues\IMG20250102121426.jpg]
-- [MISSING:5.6 Stacks and Queues\IMG20250102121435.jpg]
-
-Missing videos for 5.7 Trees:
-- [MISSING:5.7 Trees\IMG20250102121602.jpg]
-- [MISSING:5.7 Trees\IMG20250102121631.jpg]
-- [MISSING:5.7 Trees\IMG20250102121634.jpg]
 
 Missing videos for 6.1 Asymptotic Analysis:
 - [MISSING:6.1 Asymptotic Analysis\IMG20250102122219.jpg]
