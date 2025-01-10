@@ -120,34 +120,29 @@
 
 ### [9.3 Combinational Logic Circuits](https://www.youtube.com/watch_videos?video_ids=_sFO2wNJIKs,Zl4zpTPMtwA,nHsJjTZdnf4,7br_vTgBS0o,8wQE1QR2Uq8,_khMKejRNWk,7aEFYMvoaBc,_dF10IumRck,F-MYBiKUv5M,L1ZEm6XseKU,jA19s-MeUfQ,OYEO1eMjg-U)
 
-### [9.4 Sequential Circuits](https://www.youtube.com/watch_videos?video_ids=XYmIKTnnShs,o1jTzJKbchw,oSPtcDAEqMg,D0RmzamsHXc,pZs4nc-cqt0,Xip_-MbHUrs,VuCkguHQ2Q4,kjyWRNrkd94,rsdTGqfhhqs,ZkLaJt1muK4,UJnaXk3tHPs,lEiMukH1gSc,ohrA1Hsz-mk,Hi6hQKKaKyk,_TRRft9jKkE,pNclhZwL5kU,Md1nJz201vU)
+### [9.4 Sequential Circuits](https://www.youtube.com/watch_videos?video_ids=XYmIKTnnShs,o1jTzJKbchw,oSPtcDAEqMg,D0RmzamsHXc,pZs4nc-cqt0,Xip_-MbHUrs,VuCkguHQ2Q4,kjyWRNrkd94,rsdTGqfhhqs,ZkLaJt1muK4,UJnaXk3tHPs,lEiMukH1gSc,ohrA1Hsz-mk,Hi6hQKKaKyk,_TRRft9jKkE,pNclhZwL5kU,Md1nJz201vU,pr0SwuQxozg)
 
 ## 10. Discrete Mathematics
 
 ### [10.1 Propositional Logic](https://www.youtube.com/watch_videos?video_ids=KRn-GCVh8Hs,Lkd_nl1PEBE,En4i9hB_-ps,_G5tY0--iSU,6lnp-8ad1oI,OgshivVoNyw,9HglXkudeLY,iktRX0n5Bq4,OHu9IFqVekA,rpal6DPlpvE,T-uLHl_TX_Y,ce8Bb8OgrdI,F7-P7Ru5Vbg,pK7OiokxXq0,P1dK2kRHpEM,EKUtPEkffnI,-jMDaYD9XLA,QfE_3svnQIs,ETobHRhsst0,yF2Tuo0ddrI,pOkT-UrPILA,zL2a8Arc2Ds,NaR0z5tVATU,fpU2LKQ6Cf0)
 
-### [10.2 Sets Relations and Functions](https://www.youtube.com/watch_videos?video_ids=bfmzhqPPvLo,84sCj_Nb91k,CEpXFgAUGIg,4ZjbFM5XMpc,77-K8vot9Yk,MSJxpQenZAc,GGRwBhlrusE,b1O0e8ifxuI,coseuwM88UI,vVTvvSHFq4Q,Jt-aB4UjWbs,1Hs3_AYWPsQ,OiBidyyXnq8,_D39YJ__J_0,6PwVIt2BFEE,sQG8eGv8BKw,6gEVjJj_GIo,OXWBnMzqLww,xSCI3hc7vxY,PZhM2xuZfzE,rcdt99_-9wc,Xfz9-7tyXFg,p4LD3fxcYuM,76CU4S5zPlQ,_5s23vSlWKQ,hEAEniKpDcc,QezmnguzXbA,yLIER4SRCfk,LsvsuekPqNs,qDP5kX3f2KM)
+### [10.2 Sets Relations and Functions](https://www.youtube.com/watch_videos?video_ids=jl5-kykMV78,bfmzhqPPvLo,84sCj_Nb91k,CEpXFgAUGIg,4ZjbFM5XMpc,77-K8vot9Yk,MSJxpQenZAc,GGRwBhlrusE,b1O0e8ifxuI,coseuwM88UI,vVTvvSHFq4Q,Jt-aB4UjWbs,1Hs3_AYWPsQ,OiBidyyXnq8,_D39YJ__J_0,6PwVIt2BFEE,sQG8eGv8BKw,6gEVjJj_GIo,OXWBnMzqLww,xSCI3hc7vxY,PZhM2xuZfzE,rcdt99_-9wc,Xfz9-7tyXFg,p4LD3fxcYuM,76CU4S5zPlQ,_5s23vSlWKQ,hEAEniKpDcc,QezmnguzXbA,yLIER4SRCfk,LsvsuekPqNs,qDP5kX3f2KM)
 
-### [10.3 Graph Theory](https://www.youtube.com/watch_videos?video_ids=P3sXYjnx2d0,mWWHlEwptoc,6oF2jxXGZaE,XfSj7c4BSck,9CjFyb0L2Wo,m3STJIHkofU,t0_PJE8mPn0,bR0B-HXMvO0,SViVchShjjY,ybl2SM-VthA,NpNBO5hyh-4,bDQGR9gVUEQ,olYksHT_znA,uM27ZbU4JDs,7zYMm_A6YZI,yJWjaBLDcJw,9pKc0ZVieVY,cxM-aSswzEs,ZGM9250w5JE,9pbWei-p2GU,Hg5Hz_TayYc,Abm42fb76nI,7BhaHyZCqE0,HjVYUFxNR_I,xe3nuncMaYM,HoZrMVW6J1A,pNLKvL3UK7U,9dXOCX3OEOc,ZkFlVFgXwuY,5nqjiB0nMQM,EpXjR8AaJCY,-tve4mcEqcc)
+### [10.3 Graph Theory](https://www.youtube.com/watch_videos?video_ids=P3sXYjnx2d0,mWWHlEwptoc,6oF2jxXGZaE,XfSj7c4BSck,9CjFyb0L2Wo,m3STJIHkofU,lHTfNCoAUXM,t0_PJE8mPn0,bR0B-HXMvO0,SViVchShjjY,ybl2SM-VthA,NpNBO5hyh-4,bDQGR9gVUEQ,olYksHT_znA,uM27ZbU4JDs,7zYMm_A6YZI,yJWjaBLDcJw,9pKc0ZVieVY,cxM-aSswzEs,ZGM9250w5JE,9pbWei-p2GU,Hg5Hz_TayYc,Abm42fb76nI,7BhaHyZCqE0,HjVYUFxNR_I,xe3nuncMaYM,HoZrMVW6J1A,pNLKvL3UK7U,9dXOCX3OEOc,ZkFlVFgXwuY,5nqjiB0nMQM,EpXjR8AaJCY,-tve4mcEqcc)
 
 ### [10.4 Combinatorics](https://www.youtube.com/watch_videos?video_ids=Lm1NPXsXZ04,U-fBht2Mzug,PDCRGgYC7bk,lQKn3kTCQ34,RPGKOnl8YBk,iVrh8H5-s-I,vQkPwNgRqw8,hR-7QLqD_bg,0Et9LdK2NRY,e2-5nTuSVS4,S_-7TQFMuFA,wEOCOD5MsnY,Ne2I00A17cQ,ObdwhRk2OpA,xnQYy9axGyo)
-
-Missing videos for 9.4 Sequential Circuits:
-- [MISSING: Non-Redireting URL - https://www.pw.live/study/batches/642346e4febfe80018eb0de9/subjects/6426e5fc924b030018fb09cf/subject-details/all/batch-video-player?scheduleId=64484a0028d5bd0018059d3e&batchSubjectId=6426e5fc924b030018fb09cf]
 
 Missing videos for 10.1 Propositional Logic:
 - [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/dda0fb12-4ba2-40c1-9b78-71d85f4955f8]
 - [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/634a3bbc-8ef7-4cff-b519-5e778e6e48b8]
 
 Missing videos for 10.2 Sets Relations and Functions:
-- [MISSING: Non-Redireting URL - https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Yt-KJV185qsaba2r5hqE7XS9-DeEdkAV%2Fview%3Fusp%3Ddrivesdk&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Yt-KJV185qsaba2r5hqE7XS9-DeEdkAV%2Fview%3Fusp%3Ddrivesdk&ifkv=AeZLP9-KvjIY9kf-KWoK9GPuKtZGeJjuVztN2miXbx9LqqEqozDZNKLNP3MKAHvUJmyfqGzZfFYtpA&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1175075215%3A1735804776745095]
 - [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/3318cf44-3849-433c-b23c-8328cdb4fd92]
 - [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/b43a97d3-bfc7-4ef0-8e97-c216272624ca]
 - [MISSING:10.2 Sets Relations and Functions\IMG20250102130316.jpg]
 - [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/d5127954-11a7-49fd-87f3-66edd2836aef]
 
 Missing videos for 10.3 Graph Theory:
-- [MISSING: Non-Redireting URL - https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1eIzI4-0ehgc0WF85c0uT2DLt1eMX-qke%2Fview%3Fusp%3Ddrivesdk&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1eIzI4-0ehgc0WF85c0uT2DLt1eMX-qke%2Fview%3Fusp%3Ddrivesdk&ifkv=AeZLP9_rCOcuXecD4n1b8A3ZikErvfRXnsowco9gluKl16-DeIGodmqlql3FSW-Lwl3Vhh-FYF_yqw&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1830604657%3A1735804839718569]
 - [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/d3312307-5606-458e-ab81-47c9e6dc2b79]
 - [MISSING: Non-Redireting URL - https://www.api-pw-internal-utilities.in/qr/0970f048-2d56-4f16-bdcb-0c1d06d7722d]
 
